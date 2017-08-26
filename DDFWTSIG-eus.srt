@@ -1,0 +1,1003 @@
+1
+00:00:07,000 --> 00:00:09,000
+Mike Donahue naiz.
+
+2
+00:00:13,000 --> 00:00:14,000
+O, ez kexkatu.
+
+3
+00:00:14,000 --> 00:00:17,000
+Ez dut horrelakorik beharko
+joango garen lekura
+
+4
+00:00:37,000 --> 00:00:41,000
+Polizia! 
+DeMarco Agente Berezia. Altxa esku madarikatu horiek!
+
+5
+00:00:48,000 --> 00:00:51,000
+Tipo honek kontratatu berri nau
+Firefense deituriko enpresan
+
+6
+00:00:51,000 --> 00:00:54,000
+Tira, edan bat Mike.
+
+7
+00:00:55,000 --> 00:00:57,000
+Zer ospatzen ari gara, Oliver?
+
+8
+00:00:58,000 --> 00:00:59,000
+Egin dezagun topa Mikeren izenean,
+
+9
+00:01:00,000 --> 00:01:02,000
+Zinezko gogoa daukat bihar izateaz. Hahaha!
+
+10
+00:01:06,000 --> 00:01:09,000
+Hau lankide bat da, oraindik
+ez dakit gehiegi berari buruz.
+
+11
+00:01:10,000 --> 00:01:13,000
+Tira Mike, zer da hain berezia
+zure "preemptive rootkit"-ean?
+
+12
+00:01:16,000 --> 00:01:21,000
+Ba, administratzaileek normalean mugatuta
+daude barruko trafikoa monitorizatzera
+
+13
+00:01:22,000 --> 00:01:24,000
+eta gertaeren loga faltsutu daiteke
+routerra konprometituta badago,
+
+14
+00:01:25,000 --> 00:01:26,000
+Sirian egindako saiakera hura bezala.
+
+15
+00:01:27,000 --> 00:01:30,000
+Gerra lekuetan ohikoa da Interneteko sarbidea
+moztea, baita mugikor komunikazioak ere
+
+16
+00:01:31,000 --> 00:01:32,000
+etsaiak kontrolaturiko aldeetan.
+
+17
+00:01:33:42,000 --> 00:01:37,000
+Siriaren IP espazioaren BGP bideak
+
+18
+00:01:38,000 --> 00:01:42,000
+guztiak aldi berean erori ziren,
+Internet zerbitzu-hornitzaile guztienak. 
+
+19
+00:01:43,000 --> 00:01:45,000
+Al-Assadek eraso terrorista bati
+leporatu zion erorialdia.
+
+20
+00:01:45,000 --> 00:01:46,00
+Baina hori ez zen benetan gertatu zena.
+
+21
+00:01:47,000 --> 00:01:50,000
+Hori, backbone routerrak erasotzen
+dituzunean soilik egin daiteke
+
+22
+00:01:51,000 --> 00:01:57,000
+eta NSA bezalako agentzi indartsu batek, edo hacker ero bakartiek besterik ez
+lirateke saiatuko.
+
+23
+00:01:59,000 --> 00:02:00,000
+Eta, zuk egiterik al duzu?
+
+24
+00:02:02,000 --> 00:02:03,000
+Bai, egin dezaket.
+
+25
+00:02:03,000 --> 00:02:05,000
+Eta ez nuke brickeatuko.
+
+26
+00:02:06,000 --> 00:02:07,000
+Tira lagunak, hau nik ordainduko dut!
+
+27
+00:02:08,000 --> 00:02:10,000
+Edo, hobeto esanda, Firefensek.
+Osasuna!
+
+28
+00:02:11,000 --> 00:02:13,000
+[Txirrina]
+
+29
+00:02:15,000 --> 00:02:16,00
+Kaixo Sievers anderea!
+
+30 
+00:02:16,00 --> 00:02:17:00
+Kaixo Mike.
+Oraintxe ez da momentu on bat.
+
+31
+00:02:17,000 --> 00:02:20,000
+Sievers anderea da.
+Ea, zuretzat inoiz ez da momentu on bat.
+
+32
+00:02:20,000 --> 00:02:22,00
+Telefonoan jartzea duzu, mesedez?
+Gau osoa lan egiten egon zinela ikusi nuen.
+
+33
+00:02:22,000 --> 00:02:25,000
+Beraz, zuri gauzatxo bat ekartzea pentsatu nuen.
+
+34
+00:02:25,000 --> 00:02:26,00
+Ez naiz gose
+
+35
+00:02:26,000 --> 00:02:28,000
+Urregorria emanda ere! Nitaz kexatuko zarete.
+
+36
+00:02:29,000 --> 00:02:32,000
+Ados, badakizu zer?
+Eman goraintziak nire partez, besterik ez.
+
+37
+00:02:32,000 --> 00:02:34,000
+Bai, emango dizkiot.
+Zorte on bihar.
+
+38
+00:02:37,000 --> 00:02:39,000
+Eltxo bat dago nire gelan.
+
+39
+00:02:39,000 --> 00:02:40,000
+Orain bai gose naizela!
+
+40
+00:02:40,000 --> 00:02:43,000
+Ez zaitu amorratzen, gauza hori
+zure inguruan burrunba egiten duenean
+
+41
+00:02:43,000 --> 00:02:45,000
+baina nondik datorren ez jakiteak?
+
+42
+00:02:49,000 --> 00:02:53,000
+Atetik sartzen gara, ixten dugu 
+eta gure harrapakinaren zain geratzen gara.
+
+43
+00:02:54,000 --> 00:02:55,000
+Eskerrik asko Mike!
+
+44
+00:02:55,000 --> 00:02:56,000
+Lan bikaina.
+
+45
+00:02:57,000 --> 00:02:58,000
+Laburbilduz jaun-andreak,
+
+46
+00:02:58,000 --> 00:03:02,000
+routerraren barrutik monitorizatu dezakegun
+bakarrak gara.
+
+47
+00:03:02,000 --> 00:03:04,000
+Ez dut uste bakarrak garenik, zalantzan jartzen dut.
+
+48
+00:03:04,000 --> 00:03:10,000
+Inteligentzia Agentziek sarbidea dute
+atzeko ate zein ahultasun mota askotara.
+
+49
+00:03:10,000 --> 00:03:15,000
+Eta ez bakarrik bideratzaileetan, telebistetan edo
+mobiletan ere bai.
+
+50
+00:03:15,000 --> 00:03:19,000
+Pentsa dezagun gailu horiek jaso dezaketen informazio guztia
+
+51
+00:03:20,000 --> 00:03:21,000
+Ondo.
+
+52
+00:03:22,000 --> 00:03:23,000
+Galderarik bai?
+
+53
+00:03:23,000 --> 00:03:27,000
+Orduan, zuk esan nahi duzu gobernuak,
+hortaz, baliabide publikoak,
+
+54
+00:03:27,000 --> 00:03:31,000
+EEBBetako enpresak hackeatzeko zein
+herritarrak zelatatzeko erabiltzen direla?
+
+55
+00:03:31,000 --> 00:03:32,000
+Hala da.
+
+56
+00:03:33,000 --> 00:03:36,000
+[Oliver] Beno, hori espero dut. Esan nahi dut,
+horrela harrapatzen dira terroristak, ez al da?
+
+57
+00:03:36,500 --> 00:03:37,500
+[Oliver] Kar, kar, kar
+
+58
+00:03:38,000 --> 00:03:41,000
+Ados, bazkal ondoren izango dugu azken bilera,
+
+59
+00:03:41,000 --> 00:03:44,000
+Ordu bietan, guztiak hemen bueltan izan nahi zaituztet
+Anderea eta jaunak.
+
+60
+00:03:45,000 --> 00:03:46,000
+Garaiz!
+
+61
+00:03:46,000 --> 00:03:48,000
+Zurekin hitz egin behar dut momentu bat.
+Txosten hau berrikus dezazula behar dut.
+
+62
+00:03:52,000 --> 00:03:54,000
+Beno, nola joan zen?
+
+63
+00:03:54,000 --> 00:03:55,000
+Ondo.
+
+64
+00:03:57,000 --> 00:03:58,000
+Eh, honek soinua egiten ari du.
+
+65
+00:04:07,000 --> 00:04:08,000
+Zer gertatzen da?
+
+66
+00:04:09,000 --> 00:04:10,000
+Antza
+
+67
+00:04:11,000 --> 00:04:15,000
+Norbait Firefense hackeatzen ari da.
+
+68
+00:04:18,000 --> 00:04:19,000
+Hori posible al da?
+
+69
+00:04:19,000 --> 00:04:25,000
+Norbait bideratzailearen hiperbisorea partxeatzen saiatzen ari da,
+sare analizatzailearen prozesu nagusitik.
+
+70
+00:04:25,000 --> 00:04:28,000
+Entzun, Mia. Ahultasuna madarikatu berak
+erabiltzen ari ziren
+
+71
+00:04:28,000 --> 00:04:31,000
+Siriaren erasoarenak.
+
+72
+00:04:31,00 --> 00:04:32,000
+Baina, zertarako?
+
+73
+00:04:32,000 --> 00:04:33,000
+Argibidea.
+
+74
+00:04:33,000 --> 00:04:36,000
+Firefense, Interneteko gehien baliatzen diren
+web orrialdeetan erabilia da.
+
+75
+00:04:36,000 --> 00:04:39,000
+Jasan dezaketen baino trafiko handiagoa
+jasotzen dutenean
+
+76
+00:04:39,000 --> 00:04:42,000
+gaitzen dute eta guk maneiatzen dugu
+trafikoaren bolumena
+
+77
+00:04:44,000 --> 00:04:47,000
+Orduan, Firefense hackeatzen, zuk ikuskatu zein
+eten dezakezu trafikoa zuzenean?
+
+78
+00:04:47,000 --> 00:04:50,000
+HTTPS konekzioak barne.
+
+79
+00:04:50,000 --> 00:04:53,000
+Ados, itxaron, zuk uste duzu NSA saiatzen ari
+dela Firefense konprometitzen?
+
+80
+00:04:53,000 --> 00:04:56,000
+Beraiek izan daitezke, ala beste talde trebe bat.
+
+81
+00:04:56,000 --> 00:04:57,000
+Zein serioa da hau?
+
+82
+00:04:57,000 --> 00:04:59,000
+Orokorrean, oraindik ez dakigu.
+
+83
+00:04:59,000 --> 00:05:00,000
+Txarto jotzen du.
+
+84
+00:05:00,000 --> 00:05:02,000
+Mike Donahuek estalgabetu ahal gaitu, nire Generala.
+
+85
+00:05:02,000 --> 00:05:04,000
+Nor da hori?
+
+86
+00:05:04,000 --> 00:05:07,000
+Zuek diskrezioa ziurtatu zeniguten
+eginkizun honetarako.
+
+87
+00:05:07,000 --> 00:05:10,000
+Ba, Donahue Firefenseko analista bat da.
+
+88
+00:05:10,000 --> 00:05:13,000
+eta oso posiblea da gure operazioak aztoratzearen
+hurbil dagoenik
+
+89
+00:05:13,000 --> 00:05:18,000
+Munduan zehar partekatuak diren bitartekoen
+infraestrukturetara sarbidea lortu genuen.
+
+90
+00:05:18,000 --> 00:05:20,000
+Eta ezkutatzeko, proxi-kate bezala, erabiltzen ditugu.
+
+91
+00:05:21,000 --> 00:05:25,000
+Bertako saltoki batetik egiten ari da operazioaren
+administrazioa, azken jauzian.
+
+92
+00:05:25,000 --> 00:05:28,000
+Oraintxe bertan, talde hori ez da horretaz kontziente.
+
+93
+00:05:28,000 --> 00:05:30,000
+Orduan, zein da inpaktua guregan?
+Entonces ¿cuál es el impacto en nosotros ahora mismo?
+
+94
+00:05:30,000 --> 00:05:31,000
+eta beraiekin lotuak izan gaitezke?
+
+95
+00:05:31,000 --> 00:05:35,000
+Dagoeneko, gure OPSEC operazio honetan
+berrebaluatzen ari gara.
+
+96
+00:05:35,000 --> 00:05:36,000
+Ez dakigu.
+
+97
+00:05:37,000 --> 00:05:38,000
+Jatorritik trazeatuko dut trafikoa.
+
+98
+00:05:38,000 --> 00:05:40,000
+Mike, honekin jarraitu behar ez zenukelakoan nago.
+
+99
+00:05:40,000 --> 00:05:41,000
+Eta zergatik ez?
+
+100
+00:05:41,000 --> 00:05:44,000
+Firefense erasotua izaten ari bada,
+berdin Facebook, Yahoo, Google...
+
+101
+00:05:44,000 --> 00:05:46,000
+Hau ez da jolas-patioa, ez al dakizu?
+
+102
+00:05:46,000 --> 00:05:48,000
+Arrazoi gehiago ezagutarazteko.
+
+103
+00:05:48,000 --> 00:05:49,000
+Jendeak jakitea merezi duela esan nahi dut
+
+104
+00:05:50,000 --> 00:05:52,000
+Ez? Ez duzu ulertzen?
+
+105
+00:05:52,000 --> 00:05:53,000
+Ez, noski, bai!
+
+106
+00:05:53,000 --> 00:05:55,000
+Baina, bada... NSA guzti honen atzetik badago
+
+107
+00:05:55,000 --> 00:05:57,000
+FBI berehala izango duzu zure atzetik.
+
+108
+00:05:57,000 --> 00:05:59,000
+Zergatik jarriko zara arriskuan?
+
+109
+00:05:59,000 --> 00:06:01,000
+Samuel ez zen hil izainez beteriko herri baten izenean.
+
+110
+00:06:01,000 --> 00:06:04,000
+O, badakit bai. Zure obsesio pertsonalak dira berriro.
+
+111
+00:06:04,000 --> 00:06:05,000
+Joan popatik hartzera.
+Utziozu hori esateari.
+
+112
+00:06:05,000 --> 00:06:07,000
+Mike, 2 urte iragan dira, arraioa.
+
+113
+00:06:08,000 --> 00:06:10,000
+Mesedez, bakarrik, ez egin ezer
+
+114
+00:06:10,000 --> 00:06:11,000
+[Deia moztuta]
+
+115
+00:06:10,000 --> 00:06:11,000
+Ergela.
+
+116
+00:06:12,000 --> 00:06:13,000
+Putza.
+
+117
+00:06:15,000 --> 00:06:16,000
+Ei...
+
+118
+00:06:16,000 --> 00:06:17,000
+Ei!
+
+119
+00:06:18,000 --> 00:06:19,000
+Zer izan da guzti hori?
+
+120
+00:06:19,000 --> 00:06:22,000
+Bada, George Orwell baikor bat zela.
+
+121
+00:06:22,000 --> 00:06:24,000
+Ezer handi baten hurbil dagoelakoan nago.
+
+122
+00:06:25,000 --> 00:06:27,000
+Ados, jarri nazazu egunean.
+
+123
+00:06:30,000 --> 00:06:36,000
+PRISM, projektu baten izen-gakoa da,
+2007an sortua zela informazioa masibuki hartzeko 
+
+124
+00:06:37,000 --> 00:06:39,000
+Hau da jakin behar duzuna.
+
+125
+00:06:40,000 --> 00:06:43,000
+PRISM bezalako programa gubernamentalak
+
+126
+00:06:43,000 --> 00:06:47,000
+ez dira erabiltzen beraientzat susmagarriak diren
+bizi-lagunak zaintzapean ipintzeko
+
+127
+00:06:48,000 --> 00:06:51,000
+Mundu guztia zelatatzeaz datza.
+
+128
+00:06:51,000 --> 00:06:56,000
+Inteligentzi Agentziek ez zuten asmatu
+zaintza masiboa interneten.
+
+129
+00:06:56,000 --> 00:06:59,000
+Enpresa pribatuek asmatu zuten.
+
+130
+00:07:00,000 --> 00:07:05,000
+Inteligentzia agentziek, enpresa horiek bildutako
+argibidea erabiltzea zutelaz konturatu ziren.
+
+131
+00:07:05,000 --> 00:07:08,000
+Internet izugarri konplexua denez
+
+132
+00:07:08,000 --> 00:07:11,000
+zuk eta zure emaztearean arteko ohiko komunikazioak
+
+133
+00:07:11,000 --> 00:07:15,000
+bideratu daitezke New Yorketik Londresera eta bueltan,
+bidean atzeman.
+
+134
+00:07:16,000 --> 00:07:19,000
+Gehien bati ez zaio batere axola online zaintza masiboa 
+
+135
+00:07:19,000 --> 00:07:22,000
+ez dutela ezer izkutatu behar
+pentsatzen dutelako
+
+136
+00:07:22,000 --> 00:07:26,000
+Agian ez duzu ezer izkutatzeko,
+baina guztia duzu babesteko.
+
+137
+00:07:28,000 --> 00:07:30,000
+Lehenengoz, trafikoa Txinatik zetorren
+
+138
+00:07:30,000 --> 00:07:34,000
+baina, entzun! Ez nuke Mandiant bat egingo!
+
+139
+00:07:36,000 --> 00:07:39,000
+Ez nuen denbora handirik behar deserializatzeko
+ahultasun hau aurkitzeko
+
+140
+00:07:39,000 --> 00:07:42,000
+eta Txinako zerbitzarian kode-exekuzioa lortzea.
+
+141
+00:07:43,000 --> 00:07:46,000
+Ondoren, txinako zerbitzaria komunikatzen zen
+Erresuma Batuaren inprimagailu batekin.
+
+142
+00:07:47,000 --> 00:07:48,000
+Ohikoa!
+
+143
+00:07:48,000 --> 00:07:50,000
+Badakit zer egin orain.
+
+144
+00:07:50,000 --> 00:07:52,000
+Beti izaten da ona lagunak izatea, Sonic.
+
+145
+00:07:52,000 --> 00:07:55,000
+sakatu eta ez dio 0day-ak ateratzeari uzten.
+
+146
+00:07:56,000 --> 00:07:57,000
+Mesedez, mesedez, mesedez.
+
+147
+00:07:58,000 --> 00:08:00,000
+Ufa, hauxe primeran etorri zen.
+
+148
+00:08:01,000 --> 00:08:02,000
+Bai.
+
+149
+00:08:02,000 --> 00:08:04,000
+Hurrengo komunikazioaren jauzia
+Errusiako zerbitzari bat zen.
+
+150
+00:08:04,000 --> 00:08:07,000
+Zenbat zerbitzari!
+Nire gorputzan sentitu nezakeen adrenalina.
+
+151
+00:08:07,000 --> 00:08:09,000
+Bai, bai, bai. Shellshock delako hori.
+
+152
+00:08:09,000 --> 00:08:10,000
+Zentratu!
+
+153
+00:08:10,000 --> 00:08:11,000
+Zorionez, orain laguntza gehigarria nuen.
+
+154
+00:08:11,000 --> 00:08:12,000
+Horretan jarriko naiz.
+
+155
+00:08:13,000 --> 00:08:14,000
+Mia barne.
+
+156
+00:08:36,000 --> 00:08:37,000
+Badaukat! 
+
+157
+00:08:37,000 --> 00:08:39,000
+Shellshock goiburuetako eremuetan, 8080an
+
+158
+00:08:39,000 --> 00:08:43,000
+Kernel exploit pribatu bat erabili nuen
+pribilegioak eskalatzeko zerbitzari Errusiarrean.
+
+159
+00:08:43,000 --> 00:08:45,000
+IP aurrizki hori...
+
+160
+00:08:46,000 --> 00:08:47,000
+Estatu Batuak?
+USA?
+
+161
+00:08:47,000 --> 00:08:49,000
+Benetan?
+Gozotegi bat!
+
+162
+00:08:50,000 --> 00:08:52,000
+Hauxe zer da, Hollywodeko peli bat edo?
+
+163
+00:08:53,000 --> 00:08:54,000
+Bisita fisiko bat egiteko garaia?
+
+164
+00:08:57,000 --> 00:08:58,000
+Zalantzarik gabe!
+
+168
+00:09:14,000 --> 00:09:15,500
+Kaixo. Mike Donahue naiz.
+
+169
+00:09:15,500 --> 00:09:17,000
+Hemen ondoan bizi naiz.
+O, kaixo Sievers anderea.
+
+170
+00:09:17,000 --> 00:09:18,000
+Kaixo Mike!
+
+171
+00:09:18,000 --> 00:09:20,000
+Firefense deituriko ziber-segurtasun enpresa
+batentzat lan egiten dut.
+
+172
+00:09:20,000 --> 00:09:23,000
+eta gure zerbitzariak konprometituak izan dira
+
+173
+00:09:23,000 --> 00:09:25,000
+rootkit bat erabiliz, zeinek lotzen zuen... eta...
+
+174
+00:09:25,000 --> 00:09:26,000
+...laguntza behar dut!
+
+175
+00:09:28,000 --> 00:09:29,000
+Nire laguntza?
+
+176
+00:09:29,000 --> 00:09:30,000
+Bai
+
+177
+00:09:30,000 --> 00:09:35,000
+C&Ca lokalizatu dugu eta horrek salto egiten zuen
+Txinako VPS batera, ondoren Erresuma Batuan,
+gero Errusian
+
+178
+00:09:35,000 --> 00:09:37,000
+eta azkenean hemen bueltan.
+
+179
+00:09:38,000 --> 00:09:39,000
+Hemen?
+
+180
+00:09:39,000 --> 00:09:43,000
+Bai horixe. Zeu proxia zarelakoan nago.
+Horko gauza hori proxia da.
+
+181
+00:09:43,000 --> 00:09:45,000
+Ez dakit zer diozun, mutil.
+
+182
+00:09:46,000 --> 00:09:47,000
+Ba C&Ca da...
+
+190
+00:09:49,000 --> 00:09:50,000
+Minutu batzuk besterik ez dut behar.
+
+191
+00:09:51,000 --> 00:09:52,000
+Txolarte bat?
+
+192
+00:09:52,000 --> 00:09:56,000
+Bai, tresna batzuk konfiguratzeko eta
+proxi honetan trafikoa ikus ahal izateko.
+
+193
+00:09:56,000 --> 00:09:57,000
+Urregorria emanda ere! Hau ez duzu inondik
+inora ukituko.
+
+194
+00:09:58,000 --> 00:10:01,000
+500 dolar gastatu ditut konpontzeko,
+beraz ez dizut hurbiltzen ere utziko.
+
+195
+00:10:01,000 --> 00:10:04,000
+Baina anderea, zuk ez didazu ulertzen.
+Hackeatua izaten ari zara.
+
+
+196
+00:10:04,000 --> 00:10:06,000
+A, ez.
+Ez nauzu engainatuko.
+
+197
+00:10:06,000 --> 00:10:07,000
+Badakit zer den hau.
+
+198
+00:10:07,000 --> 00:10:09,000
+E-posta kate guzti horiek irakurri ditut.
+
+199
+00:10:09,000 --> 00:10:13,000
+Nire Facebookeko argazkiak lapurtzea baino
+ez duzu nahi, Obamari emateko.
+
+200
+00:10:13,000 --> 00:10:16,000
+Ez duzu inolako eskubiderik nire gauzak
+ezagutaraztera, mutila.
+
+201
+00:10:17,000 --> 00:10:20,000
+Mike, ez egin hori.
+
+202
+00:10:27,000 --> 00:10:29,000
+Badakit zer egiten duten hackerrek
+
+203
+00:10:29,000 --> 00:10:31,000
+zure argazkiak zelatatzen dituzte
+eta zure mezuak irakurtzen dituzte
+
+204
+00:10:32,000 --> 00:10:37,000
+Zure bankuko dirua lapurtu dezakete eta
+Suizare bidaltzen omen dute, ala zeozer
+antzekoa.
+
+205
+00:10:37,000 --> 00:10:38,000
+Benetan?
+
+206
+00:10:38,000 --> 00:10:39,000
+Bai, latza da.
+
+207
+00:10:39,000 --> 00:10:40,000
+Egia da.
+
+208
+00:10:41,000 --> 00:10:42,000
+O, momentu bat.
+
+209
+00:10:42,000 --> 00:10:45,000
+Kremazko pastela jarri didazu ere?
+
+210
+00:10:46,000 --> 00:10:50,000
+Badakizu zer? Horregatik nik ez dut
+bankurik erabiltzen.
+
+211
+00:10:51,000 --> 00:10:54,000
+Nire dirua lastairaren azpian gordetzen dut.
+
+212
+00:10:54,000 --> 00:10:57,000
+Hori zen nire amak irakatsi zidana.
+
+213
+00:11:02,000 --> 00:11:03,000
+Eskerrik asko, agur!
+
+214
+00:11:09,000 --> 00:11:11,000
+Nire etorkizuna erabakitzen ari dira.
+
+215
+00:11:11,000 --> 00:11:12,000
+Nire burua nahi dutenek, hain zuzen ere,
+
+216
+00:11:13,000 --> 00:11:14,000
+nik dakidana jakin nahi dutenek.
+
+217
+00:11:14,000 --> 00:11:18,000
+Ixildu nahi naute badakidalako
+zer saiatu diren izkutatzen betidanik
+
+218
+00:11:18,000 --> 00:11:21,000
+John Inglis nauzu, Segurtasun Agentzia
+Nazionalaren Azpizuzendaria.
+
+219
+00:11:21,000 --> 00:11:22,000
+Zer moduz?
+
+220
+00:11:23,000 --> 00:11:26,000
+Pertsona bat baina ez dago.
+
+221
+00:11:33,000 --> 00:11:34,000
+Zure Bermudetarako bidaiari buruz dakit.
+
+222
+00:11:34,000 --> 00:11:35,000
+Zure lehengusinarekiko afera
+Sobre la aventura con tu prima.
+
+223
+00:11:35,000 --> 00:11:37,000
+Zer uste duzun zure nagusiari buruz
+
+224
+00:11:37,000 --> 00:11:38,000
+eta zure zakilaren argazki hori ere ikusi dut.
+
+225
+00:11:38,000 --> 00:11:40,000
+Drogatuta zindoala abiaduraren muga gainditu zenuen
+
+226
+00:11:40,000 --> 00:11:42,000
+"Txihuaha kumeak" googleatu egin zenuen
+
+227
+00:11:42,000 --> 00:11:43,000
+eta nola pozoitu zure amaginarreba
+
+228
+00:11:43,000 --> 00:11:45,000
+Zure sakelako telefonoa entzuten ari zen zure poltsikoan
+
+229
+00:11:45,000 --> 00:11:46,500
+Lucy ezagutu zenuenean lehen aldiz,
+
+230
+00:11:46,500 --> 00:11:48,000
+larrua jo zenutenean lehen aldiz, ere.
+
+231
+00:11:48,000 --> 00:11:50,000
+Baina ni ez nintzen izan lapurtu zizuna.
+
+232
+00:11:50,000 --> 00:11:54,000
+Mundu osoan zehar kilometroak bidaiatu ditu
+eta berriro herrian sartzen da.
+
+233
+00:11:54,000 --> 00:11:57,000
+Nazio seguratasuna? Etxekoa?
+
+234
+00:11:57,000 --> 00:11:58,500
+Gezurrak.
+
+235
+00:12:00,000 --> 00:12:02,000
+Norekin lan egiten ari zaren jakiteko beharra dugu.
+
+236
+00:12:04,000 --> 00:12:09,000
+Zure joku txiki horrek arriskuan jartzen ditu Amerikako
+bizilagunen bizitzak eta ezin dut utzi hori gertatzea.
+
+237
+00:12:11,000 --> 00:12:12,000
+Hori gezurra da.
+
+238
+00:12:12,000 --> 00:12:15,000
+Informazioaren munduan ez dago mugarik,
+
+239
+00:12:15,000 --> 00:12:18,000
+eta "Patriot Act" legea ez zen inoiz diseinatua izan zu babesteko.
+
+240
+00:12:19,000 --> 00:12:24,000
+Bada, argibide hori dugu, eta orain ez dugu
+ezjakintasunaren luxu hori.
+
+241
+00:12:25,000 --> 00:12:26,000
+Erruduna.

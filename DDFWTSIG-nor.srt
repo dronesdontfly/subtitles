@@ -1,0 +1,1028 @@
+1
+00:00:07,000 --> 00:00:09,000
+- Jeg er Mike Donahue.
+
+2
+00:00:12,000 --> 00:00:14,000
+
+3
+00:00:13,000 --> 00:00:18,000
+Å, ikke vær redd. Jeg trenger ikke
+disse der vi skal.
+
+4
+00:00:37,000 --> 00:00:41,000
+- Stå stille! Spesialagent DeMarco. 
+Henda i været!
+
+5
+00:00:48,000 --> 00:00:51,900
+- Denne fyren ansatte meg nettopp
+i firmaet Firefense.
+
+6
+00:00:52,000 --> 00:00:55,000
+- Vær så god og ta en, Mike
+
+7
+00:00:55,000 --> 00:00:57,000
+- Hva er anledningen, Oliver?
+
+8
+00:00:58,000 --> 00:00:59,000
+- En skål for Mike
+
+9
+00:01:00,000 --> 00:01:02,000
+Jeg ser virkelig frem til i morgen.
+
+10
+00:01:06,000 --> 00:01:09,000
+- Dette er en eller annen kollega
+jeg fremdeles ikke vet så mye om.
+
+11
+00:01:10,000 --> 00:01:14,000
+- Så, Mike, hva er så spesielt med
+det forebyggende rootkitet ditt?
+
+12
+00:01:16,000 --> 00:01:21,900
+- Vel, administratorer er vanligvis begrenset
+til å monitorere lokal trafikk
+
+13
+00:01:22,000 --> 00:01:24,900
+og hendelseslogging kan bli forfalsket
+hvis ruteren allerede er kompromittert
+
+14
+00:01:25,000 --> 00:01:26,900
+som forsøket på Syria.
+
+15
+00:01:27,000 --> 00:01:30,000
+- I en krigssone er det vanlig å stenge
+tilgang til Internett og mobil
+
+16
+00:01:31,000 --> 00:01:33,000
+i motstandernes områder.
+
+17
+00:01:33:42,000 --> 00:01:37,000
+- Alle BGP routes til Syrias IP-område
+
+18
+00:01:38,000 --> 00:01:42,000
+ble samtidig trukket tilbake fra
+alle Syrias oppstrømstilbydere
+
+19
+00:01:43,000 --> 00:01:45,000
+- Al-Assad hevdet nedetiden skyldtes
+et terrorangrep.
+
+20
+00:01:45,000 --> 00:01:46,900
+- Men det var ikke sant.
+
+21
+00:01:47,000 --> 00:01:50,000
+Dette kan bare gjøres på 
+backbone-nivå
+
+22
+00:01:51,000 --> 00:01:57,000
+og bare store aktører som NSA, eller
+gale enkelthackere, ville forsøke det.
+
+23
+00:01:59,000 --> 00:02:00,000
+- Og du kan?
+
+24
+00:02:02,000 --> 00:02:03,000
+- Det kan jeg.
+
+25
+00:02:03,000 --> 00:02:05,000
+Og jeg ville ikke ha ødelagt den.
+
+26
+00:02:06,000 --> 00:02:07,000
+- Ok mine herrer, jeg spanderer denne!
+
+
+27
+00:02:08,000 --> 00:02:10,000
+Eller burde jeg si, Firefense.
+Skål!
+
+28
+00:02:11,000 --> 00:02:13,000
+[Ringeklokke]
+
+29
+00:02:15,000 --> 00:02:16,00
+- Hei, fru Sievers!
+
+30 
+00:02:16,00 --> 00:02:17:00
+- Hei Mike. 
+- Det passer ikke så bra akkurat nå.
+
+31
+00:02:17,000 --> 00:02:20,000
+Det er fru Sievers.
+- Vel, det passer aldri godt for deg.
+
+32
+00:02:20,000 --> 00:02:22,00
+- Kan du sette henne over på telefonen, takk?
+- Jeg hørte du arbeidet hele natta.
+
+33
+00:02:22,000 --> 00:02:25,000
+Så jeg tenkte jeg skulle ta med
+noen småting til deg.
+
+34
+00:02:25,000 --> 00:02:26,00
+- Jeg er ikke sulten.
+
+35
+00:02:26,000 --> 00:02:28,000
+Ikke sjanse! Du kommer til å 
+snakke om meg.
+
+36
+00:02:29,000 --> 00:02:32,000
+- Ok, vet du hva?
+Bare si til henne at jeg sa hei.
+
+37
+00:02:32,000 --> 00:02:34,000
+- Greit!
+- Og lykke til i morgen.
+
+38
+00:02:37,000 --> 00:02:39,000
+- Det er en mygg i rommet mitt.
+
+39
+00:02:39,000 --> 00:02:40,000
+- Jeg er sulten nå!
+
+40
+00:02:40,000 --> 00:02:43,000
+- Hater du ikke bare når du hører
+den tingen summe rundt
+
+41
+00:02:43,000 --> 00:02:45,000
+samtidig som du ikke vet hvor det
+kommer fra?
+
+42
+00:02:49,000 --> 00:02:53,000
+- Vi åpner døren, lukker den bak oss
+og venter på offeret.
+
+43
+00:02:54,000 --> 00:02:55,000
+- Takk, Mike!
+
+44
+00:02:55,000 --> 00:02:56,000
+Godt jobba!
+
+45
+00:02:57,000 --> 00:02:58,000
+Hovedsakelig, mine damer og herrer,
+
+46
+00:02:58,000 --> 00:03:02,000
+er vi de eneste i verden som kan
+monitorere fra innsiden av routeren.
+
+47
+00:03:02,000 --> 00:03:04,000
+- Jeg... tror ikke vi er de eneste.
+
+48
+00:03:04,000 --> 00:03:10,000
+Sikkerhetsmyndigheter har tilgang til 
+mange typer bakdører og sårbarheter.
+
+49
+00:03:10,000 --> 00:03:15,000
+Og ikke bare i routere, men i TVer og mobiler.
+
+50
+00:03:15,000 --> 00:03:19,000
+Tenk på alle data de enhetene
+samler opp.
+
+51
+00:03:20,000 --> 00:03:21,000
+- Bra.
+
+52
+00:03:22,000 --> 00:03:23,000
+Noen spørsmål?
+
+53
+00:03:23,000 --> 00:03:27,000
+- Så du sier myndighetene, og dermed
+offentlige midler,
+
+54
+00:03:27,000 --> 00:03:31,000
+blir brukt til å hacke inn i amerikanske
+bedrifter for å spionere på folk?
+
+55
+00:03:31,000 --> 00:03:32,000
+- Det stemmer.
+
+56
+00:03:33,000 --> 00:03:36,000
+[Oliver] Vel, jeg håper i alle fall det. Jeg mener,
+det er sånn vi fanger terrorister, ikke sant?
+
+
+58
+00:03:38,000 --> 00:03:41,000
+Ok, vi tar en debriefing etter lunch
+
+59
+00:03:41,000 --> 00:03:44,000
+Jeg vil ha alle tilbake her klokken to,
+dame og herrer.
+
+60
+00:03:45,000 --> 00:03:46,000
+På slaget!
+
+61
+00:03:46,000 --> 00:03:49,000
+Jeg vil snakke med deg et øyeblikk.
+Jeg vil at du ser over denne rapporten.
+
+62
+00:03:52,000 --> 00:03:54,000
+- Vel, hvordan gikk det?
+
+63
+00:03:54,000 --> 00:03:55,000
+- Bra.
+
+64
+00:03:57,000 --> 00:03:58,000
+- Ehm, den piper.
+
+65
+00:04:07,500 --> 00:04:08,500
+- Hva er i veien?
+
+66
+00:04:09,000 --> 00:04:10,900
+- Det ser ut til at
+
+67
+00:04:11,000 --> 00:04:15,000
+noen prøver å hacke seg inn i Firefense.
+
+68
+00:04:18,000 --> 00:04:19,000
+- Er det i det hele tatt mulig?
+
+69
+00:04:19,000 --> 00:04:25,000
+- Noen prøver å patche hypervisoren i routeren ved
+å gå via hovedprosessen for nettverksparsing.
+
+70
+00:04:25,000 --> 00:04:29,000
+- Mia, hør etter. De bruker de samme
+jævla sårbarhetene
+
+71
+00:04:29,000 --> 00:04:31,000
+som angrepet i Syria.
+
+72
+00:04:31,00 --> 00:04:32,000
+- Men hvorfor?
+
+73
+00:04:32,000 --> 00:04:33,000
+- Data.
+
+74
+00:04:33,000 --> 00:04:36,000
+Firefense brukes på flesteparten
+av de største sitene på Internett.
+
+75
+00:04:36,000 --> 00:04:39,000
+Når de mottar mer trafikk enn 
+de kan håndtere
+
+76
+00:04:39,000 --> 00:04:42,000
+skrur de det på så vi kan styre
+trafikkvolumet for dem
+
+77
+00:04:44,000 --> 00:04:47,900
+- Så ved å hacke seg inn i Firefense kan man 
+avlytte trafikken direkte
+
+78
+00:04:48,000 --> 00:04:50,000
+- Inkludert HTTPS-tilkoblinger.
+
+79
+00:04:50,000 --> 00:04:53,000
+- Vent, du tror NSA prøver å hacke
+seg inn i Firefense?
+
+80
+00:04:53,000 --> 00:04:56,000
+- Det kan være dem eller en annen dyktig gruppe.
+
+81
+00:04:56,000 --> 00:04:57,000
+- Hvor alvorlig er dette?
+
+82
+00:04:57,000 --> 00:04:59,900
+- Vi vet ikke helt enda, general.
+
+83
+00:05:00,000 --> 00:05:01,000
+- Ikke pent.
+
+84
+00:05:01,000 --> 00:05:02,900
+Mike Donahue nærmer seg oss, Sir.
+
+85
+00:05:03,000 --> 00:05:04,000
+- Hvem er det?
+
+86
+00:05:04,000 --> 00:05:07,000
+Jeg ble garantert at vi skulle skjule oss godt
+under dette oppdraget.
+
+87
+00:05:07,000 --> 00:05:10,000
+- Vel, Donahue er en analyseekspert 
+hos Firefense,
+
+88
+00:05:10,000 --> 00:05:13,000
+og det er godt mulig han er nær
+ved å avdekke oppdraget.
+
+89
+00:05:13,000 --> 00:05:18,000
+- Vi fikk tilgang til forskjellige infrastrukturer
+hos tredjeparter verden over
+
+90
+00:05:18,000 --> 00:05:20,000
+og bruker dem som proxykjede og dekke.
+
+91
+00:05:21,000 --> 00:05:25,000
+Operasjonsledelsen i det siste hoppet
+utføres hos en lokal bedrift.
+
+92
+00:05:25,000 --> 00:05:28,000
+Akkurat nå er det helt ukjent for 
+gruppen.
+
+93
+00:05:28,000 --> 00:05:30,000
+- Så hva er eksponeringen vår denne gangen?
+
+94
+00:05:30,000 --> 00:05:31,000
+- Og kan vi linkes til dem?
+
+95
+00:05:31,000 --> 00:05:35,000
+- Vi revurderer oppdragets operasjonelle
+sikkerhet nå.
+
+96
+00:05:36,000 --> 00:05:37,000
+- Vi vet ikke.
+
+97
+00:05:37,000 --> 00:05:38,000
+- Jeg skal spore pakken tilbake.
+
+98
+00:05:38,000 --> 00:05:40,000
+- Mike, jeg tror ikke du skal gjøre dette.
+
+99
+00:05:40,000 --> 00:05:41,000
+- Hvorfor ikke?
+
+100
+00:05:41,000 --> 00:05:44,000
+- Hvis Firefense er under angrep, så gjelder 
+det også Facebook, Yahoo, Google...
+
+101
+00:05:44,000 --> 00:05:46,000
+Dette er ikke en lekeplass, vet du?
+
+102
+00:05:46,000 --> 00:05:48,000
+- Desto større grunn til å avsløre den.
+
+103
+00:05:48,000 --> 00:05:49,500
+Jeg synes folk har rett til å vite.
+
+104
+00:05:50,000 --> 00:05:52,000
+For... forstår du ikke hva jeg mener?
+
+105
+00:05:52,000 --> 00:05:53,000
+- Joda!
+
+106
+00:05:53,000 --> 00:05:55,000
+Men hvis NSA er bak det hele
+
+107
+00:05:55,000 --> 00:05:57,000
+kommer du til å få FBI på nakken veldig snart.
+
+108
+00:05:57,000 --> 00:05:59,000
+Hvorfor vil du ta den risikoen?
+
+109
+00:05:59,000 --> 00:06:01,000
+- Samuel døde ikke for et land fult
+av parasitter.
+
+110
+00:06:01,000 --> 00:06:04,000
+- Å, jeg forstår. Det er dine egne
+personlige spøkelser igjen.
+
+111
+00:06:04,000 --> 00:06:05,000
+- Fuck deg.
+Slutt å si det.
+
+112
+00:06:05,000 --> 00:06:07,000
+- Men herregud, Mike. Det har gått to år, for helvete.
+
+113
+00:06:08,000 --> 00:06:10,000
+Vær så snill, bare ikke gjør noe-
+
+114
+00:06:10,000 --> 00:06:11,000
+[Samtale avsluttet]
+
+115
+00:06:10,000 --> 00:06:11,000
+dumt.
+
+116
+00:06:12,000 --> 00:06:13,000
+Faen.
+
+117
+00:06:15,000 --> 00:06:16,000
+- Hei...
+
+118
+00:06:16,000 --> 00:06:17,000
+Hei!
+
+119
+00:06:18,000 --> 00:06:19,000
+Hva var greia?
+
+120
+00:06:19,000 --> 00:06:22,000
+- Det viser seg at George Orwell var 
+en optimist.
+
+121
+00:06:22,000 --> 00:06:24,000
+Jeg tror han kan ha et poeng denne gangen.
+
+122
+00:06:25,000 --> 00:06:27,000
+- Ok, hjelp meg å forstå.
+
+123
+00:06:30,000 --> 00:06:36,000
+- PRISM er kodenavnet for en datainnsamlings-
+innsats startet i 2007
+
+124
+00:06:37,000 --> 00:06:39,000
+Her er noe du må vite.
+
+125
+00:06:40,000 --> 00:06:43,000
+Myndighetsprogrammer som PRISM
+
+126
+00:06:43,000 --> 00:06:47,000
+handler i virkeligheten ikke kun om 
+overvåkning av folk de tror gjør noe galt.
+
+127
+00:06:48,000 --> 00:06:51,000
+Det handler om å overvåke alle.
+
+128
+00:06:51,000 --> 00:06:56,000
+Sikkerhetsmyndigheter fant ikke opp
+masseovervåkning av Internett.
+
+129
+00:06:56,000 --> 00:06:59,000
+Det ble oppfunnet av private selskaper.
+
+130
+00:07:00,000 --> 00:07:05,000
+Men sikkerhetsmyndigheter oppdaget nettopp at de
+kan bruke data samlet inn av de selskapene.
+
+131
+00:07:05,000 --> 00:07:08,000
+Fordi Internett er så utrolig komplekst
+
+132
+00:07:08,000 --> 00:07:11,000
+kan innenlandskommunikasjon 
+mellom deg og kona di
+
+133
+00:07:11,000 --> 00:07:15,000
+gå fra New York til London og tilbake
+og bli fanget opp underveis.
+
+134
+00:07:16,000 --> 00:07:19,000
+De fleste bryr seg ikke en døyt
+om online-overvåkning
+
+135
+00:07:19,000 --> 00:07:22,000
+fordi de tror de ikke har noe
+å skjule.
+
+136
+00:07:22,000 --> 00:07:26,000
+Kanskje du ikke har noe å skjule,
+men du har alt å beskytte.
+
+137
+00:07:29,000 --> 00:07:30,900
+- Det så først ut som nettverkstrafikken kom fra Kina
+
+138
+00:07:31,000 --> 00:07:35,000
+men jeg hadde ikke akkurat tenkt å dra
+en Mandiant.
+
+139
+00:07:36,000 --> 00:07:39,000
+Det tok ikke lang tid å finne
+deserialiseringssårbarheten
+
+140
+00:07:39,000 --> 00:07:42,000
+og kjøre kode på den kinesiske
+serveren.
+
+141
+00:07:43,000 --> 00:07:46,000
+Den kinesiske serveren koblet seg 
+til en printer i Storbritannia.
+
+142
+00:07:47,000 --> 00:07:48,000
+Klasse.
+
+143
+00:07:48,000 --> 00:07:50,000
+Jeg vet hva jeg skal gjøre nå.
+
+144
+00:07:50,000 --> 00:07:52,000
+Det er bra å ha Sonic-venner.
+
+145
+00:07:52,000 --> 00:07:55,000
+Du dunker litt i dem, og 
+0-dagssårbarheter faller ut.
+
+146
+00:07:56,000 --> 00:07:57,000
+Vær så snill, vær så snill
+
+147
+00:07:58,000 --> 00:08:00,000
+Vel, det var heldig.
+
+148
+00:08:01,000 --> 00:08:02,000
+Jaa.
+
+149
+00:08:02,000 --> 00:08:04,000
+Det neste hoppet i kommunikasjonen var serveren
+i Russland.
+
+150
+00:08:04,000 --> 00:08:07,000
+Mange kjørende servere...
+Jeg kunne føle rushet
+
+151
+00:08:07,000 --> 00:08:09,000
+- Ja, ja, ja. Shellshock-greia.
+
+152
+00:08:09,000 --> 00:08:10,000
+- Fokuser!
+
+153
+00:08:10,000 --> 00:08:13,000
+Heldigvis fikk jeg ekstra hjelp nå.
+- Jeg skal ta det.
+
+155
+00:08:13,000 --> 00:08:15,000
+- Inkludert Mia.
+
+156
+00:08:36,000 --> 00:08:37,000
+- Tok den! 
+
+157
+00:08:37,000 --> 00:08:39,000
+Shellshock i headerverdiene på port 8080
+
+158
+00:08:39,000 --> 00:08:43,000
+- Jeg brukte min egen kernel exploit for å øke 
+privilegiene til root på den russiske serveren.
+
+159
+00:08:43,000 --> 00:08:45,000
+Det IP-prefikset...
+
+160
+00:08:46,000 --> 00:08:47,000
+Amerikansk?
+
+161
+00:08:47,000 --> 00:08:49,000
+Kødder du med meg?
+Et bakeri!
+
+162
+00:08:50,000 --> 00:08:52,000
+Er dette en Hollywood-film eller hva?
+
+163
+00:08:53,500 --> 00:08:55,000
+På tide med et fysisk besøk?
+
+164
+00:08:57,000 --> 00:08:58,000
+Definitivt!
+
+168
+00:09:14,000 --> 00:09:15,500
+Hei. Mitt navn er Mike Donahue.
+
+169
+00:09:15,500 --> 00:09:17,000
+Jeg bor nedi gata.
+Åh hei, fru Sievers.
+
+170
+00:09:17,000 --> 00:09:18,000
+- Hei Mike!
+
+171
+00:09:18,000 --> 00:09:20,000
+- Jeg jobber for et cybersikkerhets-
+selskap som heter Firefense
+
+172
+00:09:20,000 --> 00:09:23,000
+og våre servere har blitt kompromittert
+
+173
+00:09:23,000 --> 00:09:25,000
+av et rootkit, som koblet seg til vår... og...
+
+174
+00:09:25,000 --> 00:09:26,000
+...jeg trenger hjelp av deg!
+
+175
+00:09:28,000 --> 00:09:29,000
+- Hjelp av meg?
+
+176
+00:09:29,000 --> 00:09:30,000
+- Ja.
+
+177
+00:09:30,000 --> 00:09:35,000
+Vi har sporet C&C-systemet og det hoppet til
+en VPS i Kina, Storbritannia, så Russland
+
+178
+00:09:35,000 --> 00:09:37,000
+og til slutt tilbake hit.
+
+179
+00:09:38,000 --> 00:09:39,000
+- Hit?
+
+180
+00:09:39,000 --> 00:09:43,000
+- Korrekt. Vi tror du er proxyen.
+Det der er proxyen.
+
+181
+00:09:43,000 --> 00:09:45,000
+- Jeg forstår ikke, gutten min.
+
+182
+00:09:46,000 --> 00:09:47,000
+- C&C-systemet er...
+
+190
+00:09:49,000 --> 00:09:50,900
+Jeg trenger bare noen få minutter.
+
+191
+00:09:51,000 --> 00:09:52,000
+- Noen få minutter?
+
+192
+00:09:52,000 --> 00:09:56,000
+- Ja, til å sette opp verktøy og spore
+proxytrafikken tilbake.
+
+193
+00:09:56,000 --> 00:09:57,000
+- Stikk! Den får du absolutt ikke røre.
+
+194
+00:09:58,000 --> 00:10:01,000
+Jeg brukte nettopp $500 for å fikse den
+og du får ikke gå nær den.
+
+195
+00:10:01,000 --> 00:10:04,000
+- Men frue, du forstår ikke. 
+Du har blitt hacket.
+
+196
+00:10:04,000 --> 00:10:06,000
+- Å neida.
+Jeg biter ikke på.
+
+197
+00:10:06,000 --> 00:10:07,000
+Jeg vet hva dette er.
+
+198
+00:10:07,000 --> 00:10:09,000
+Jeg har leste alle kjedemailene.
+
+199
+00:10:09,000 --> 00:10:13,000
+Du ønsker bare å få tak i Facebook-bildene
+mine og gi dem til Obama.
+
+200
+00:10:13,000 --> 00:10:16,000
+Du har ingen rett til å eksponere
+meg, gutt
+
+201
+00:10:17,000 --> 00:10:20,000
+- Mike, ikke eksponer kvinnen.
+
+202
+00:10:27,000 --> 00:10:29,000
+- Jeg vet hva disse hackerne gjør
+
+203
+00:10:29,000 --> 00:10:31,000
+de spionerer på bildene dine og
+leser alle tekstmeldingene
+
+204
+00:10:32,000 --> 00:10:37,000
+De kan til og med stjele penger fra bankkontoen
+din og sende dem til Sveits eller noe sånt.
+
+205
+00:10:37,000 --> 00:10:38,000
+- Er det sant?
+
+206
+00:10:38,000 --> 00:10:39,000
+Åh, det er forferdelig.
+
+207
+00:10:39,000 --> 00:10:40,000
+- Jeg vet.
+
+208
+00:10:41,000 --> 00:10:42,000
+- Åh, vent litt.
+
+209
+00:10:42,000 --> 00:10:45,000
+Tok du med kremterten min?
+
+210
+00:10:46,000 --> 00:10:50,000
+Vel, du vet det er derfor jeg 
+ikke bruker banker.
+
+211
+00:10:51,000 --> 00:10:54,000
+Jeg putter pengene mine i madrassen hjemme
+
+212
+00:10:54,000 --> 00:10:57,000
+Det var det mora mi lærte meg.
+
+213
+00:11:02,000 --> 00:11:03,000
+- Takk og farvel!
+
+214
+00:11:09,000 --> 00:11:11,000
+- De bestemmer fremtiden min.
+
+215
+00:11:11,000 --> 00:11:12,900
+Akkurat de som vil ha hodet mitt,
+
+216
+00:11:13,000 --> 00:11:14,000
+som vil ha kunnskapen min.
+
+217
+00:11:14,000 --> 00:11:18,000
+De vil at jeg skal være stille fordi jeg
+vet hva de alltid forsøkte å gjemme.
+
+218
+00:11:18,000 --> 00:11:21,500
+- Jeg er John Inglis - visedirektør hos
+National Security Agency. 
+
+219
+00:11:21,500 --> 00:11:22,900
+Hvordan går det med deg?
+
+220
+00:11:23,000 --> 00:11:26,000
+- Men jeg er bare én person.
+
+221
+00:11:33,000 --> 00:11:34,400
+Jeg vet om turen din til Bermuda.
+
+222
+00:11:34,000 --> 00:11:35,400
+Om flørten med din kusine.
+
+223
+00:11:35,000 --> 00:11:37,000
+Jeg vet hva du tenker om sjefen din
+
+224
+00:11:37,000 --> 00:11:38,000
+og jeg har sett penisbildene dine også.
+
+225
+00:11:38,000 --> 00:11:40,000
+Du har råkjørt i fylla
+
+226
+00:11:40,000 --> 00:11:42,000
+Du har googlet etter Chihuahua-valper
+
+227
+00:11:42,000 --> 00:11:43,000
+og hvordan du kan forgifte svigermora di.
+
+228
+00:11:43,000 --> 00:11:45,000
+Telefonen din avlyttet deg fra lommen
+
+229
+00:11:45,000 --> 00:11:46,500
+når du møtte Lucy for første gang.
+
+230
+00:11:46,500 --> 00:11:48,000
+når du elsket med henne også.
+
+231
+00:11:48,000 --> 00:11:50,000
+Men jeg stjal den ikke.
+
+232
+00:11:50,000 --> 00:11:54,000
+Den har reist jorda rundt og blitt
+sluppet tilbake inn i landet.
+
+233
+00:11:54,000 --> 00:11:57,000
+Homeland security? Innenlands?
+
+234
+00:11:57,000 --> 00:11:58,500
+Drittpreik.
+
+235
+00:12:00,000 --> 00:12:02,000
+- Vi trenger å vite hvem du arbeider med.
+
+236
+00:12:04,000 --> 00:12:09,000
+Det lille stuntet ditt setter amerikanske borgeres
+liv i fare, og det kan jeg ikke la skje.
+
+237
+00:12:11,000 --> 00:12:12,000
+- Det er en løgn.
+
+238
+00:12:12,000 --> 00:12:15,000
+Det finnes ingen grenser for data,
+
+239
+00:12:15,000 --> 00:12:18,000
+og Patriot Act ble aldri laget for
+å beskytte deg.
+
+240
+00:12:19,000 --> 00:12:24,000
+Vi har denne informasjonen nå, og vi har ikke
+lenger luksusen av å spille ignorante.
+
+241
+00:12:25,000 --> 00:12:26,000
+Skyldig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

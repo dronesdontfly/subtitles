@@ -1,0 +1,1027 @@
+1
+00:00:07,000 --> 00:00:09,000
+Mijn naam is Mike Donahue.
+
+2
+00:00:13,000 --> 00:00:14,000
+Oh, maak je geen zorgen.
+
+3
+00:00:14,000 --> 00:00:17,000
+Ik zal dit niet meer nodig
+hebben waar we heen gaan.
+
+4
+00:00:37,000 --> 00:00:41,000
+Freeze! 
+Speciaal Agent DeMarco. Handen omhoog.
+
+5
+00:00:48,000 --> 00:00:51,000
+Deze kerel heeft me net ingehuurd
+bij een bedrijf met de naam Firefense.
+
+6
+00:00:51,000 --> 00:00:54,000
+Ga je gang, pak er een Mike.
+
+7
+00:00:55,000 --> 00:00:57,000
+Wat is de gelegenheid Oliver?
+
+8
+00:00:58,000 --> 00:00:59,000
+Een toost op Mike,
+
+9
+00:01:00,000 --> 00:01:02,000
+Ik kijk echt uit naar morgen.
+
+10
+00:01:06,000 --> 00:01:09,000
+Dit is een collega van het werk
+waar ik nog niet veel van afweet.
+
+11
+00:01:10,000 --> 00:01:13,000
+Zo Mike, wat is zo speciaal 
+aan je preventieve rootkit?
+
+12
+00:01:16,000 --> 00:01:21,000
+Wel, admins zijn meestal gebonden aan
+het monitoren van lokaal netwerkverkeer 
+
+13
+00:01:22,000 --> 00:01:24,000
+en event logs kunnen vervalst worden
+indien de router al gehackt is,
+
+14
+00:01:25,000 --> 00:01:26,000
+zoals de poging op Syrië.
+
+15
+00:01:27,000 --> 00:01:30,000
+In een oorlogszone is het gebruikelijk
+om Internet en mobiel verkeer af te sluiten
+
+16
+00:01:31,000 --> 00:01:32,000
+in door de oppositie gecontroleerde gebieden.
+
+17
+00:01:33:42,000 --> 00:01:37,000
+BGP routes naar Syrië's IP space
+
+18
+00:01:38,000 --> 00:01:42,000
+zijn allemaal gelijktijdig teruggetrokken
+van alle upstream providers in Syrië.
+
+19
+00:01:43,000 --> 00:01:45,000
+Al-Assad verweet een terroristische aanslag
+voor de storing.
+
+20
+00:01:45,000 --> 00:01:46,00
+Alleen, dat kan niet. 
+
+21
+00:01:47,000 --> 00:01:50,000
+Dit kan enkel gebeuren op 
+de backbone routers
+
+22
+00:01:51,000 --> 00:01:57,000
+en enkel grote agentschappen zoals NSA,
+of lone wolf hackers, zouden dit proberen.
+
+23
+00:01:59,000 --> 00:02:00,000
+En jij kan dat?
+
+24
+00:02:02,000 --> 00:02:03,000
+Ja.
+
+25
+00:02:03,000 --> 00:02:05,000
+En het zou niet vastgelopen zijn.
+
+26
+00:02:06,000 --> 00:02:07,000
+Ok heren, dit rondje is voor mij.
+
+27
+00:02:08,000 --> 00:02:10,000
+Of ik moet zeggen, Firefense.
+Schol
+
+28
+00:02:11,000 --> 00:02:13,000
+[Deurbel]
+
+29
+00:02:15,000 --> 00:02:16,00
+Hoi Mevr. Sievers!
+
+30 
+00:02:16,00 --> 00:02:17:00
+Hoi Mike. 
+Nu, nu is niet zo'n goed moment.
+
+31
+00:02:17,000 --> 00:02:20,000
+Het is Mevr. Sievers.
+Wel, het is nooit een goed moment voor jou.
+
+32
+00:02:20,000 --> 00:02:22,00
+Kan je haar de telefoon geven, aub?
+Ik heb gehoord dat je de ganse nacht aan het werk was
+
+33
+00:02:22,000 --> 00:02:25,000
+Dus ik dacht om je iets lekkers 
+te brengen.
+
+34
+00:02:25,000 --> 00:02:26,00
+Ik heb geen honger
+
+35
+00:02:26,000 --> 00:02:28,000
+Echt niet! Je zou over me praten.
+
+36
+00:02:29,000 --> 00:02:32,000
+Ok, weet je wat?
+Zeg haar gewoon dat ik hallo zei.
+
+37
+00:02:32,000 --> 00:02:34,000
+Zal ik doen!
+En veel geluk morgen.
+
+38
+00:02:37,000 --> 00:02:39,000
+Er is een mug in mijn kamer.
+
+39
+00:02:39,000 --> 00:02:40,000
+Nu heb ik wel honger!
+
+40
+00:02:40,000 --> 00:02:43,000
+Haat je het niet gewoon dat je 
+dat ding hoort zoemen 
+
+41
+00:02:43,000 --> 00:02:45,000
+maar je weet niet waar 
+het vandaan komt.
+
+42
+00:02:49,000 --> 00:02:53,000
+We doen de deur open, doen ze weer
+dicht en wachten op de prooi.
+
+43
+00:02:54,000 --> 00:02:55,000
+Bedankt Mike!
+
+44
+00:02:55,000 --> 00:02:56,000
+Goed gedaan.
+
+45
+00:02:57,000 --> 00:02:58,000
+Eigenlijk dames en heren,
+
+46
+00:02:58,000 --> 00:03:02,000
+zijn we de enigen in de wereld die 
+kunnen monitoren van binnenuit de router.
+
+47
+00:03:02,000 --> 00:03:04,000
+Ik denk niet echt dat we de enigen zijn.
+
+48
+00:03:04,000 --> 00:03:10,000
+Inlichtingendiensten hebben toegang tot
+allerhande soorten backdoors en beveiligingsfouten.
+
+49
+00:03:10,000 --> 00:03:15,000
+En niet enkel voor routers, of TV's of mobiele telefoons.
+
+50
+00:03:15,000 --> 00:03:19,000
+Denk aan alle data die deze
+apparaten verzamelen.
+
+51
+00:03:20,000 --> 00:03:21,000
+Goed.
+
+52
+00:03:22,000 --> 00:03:23,000
+Vragen?
+
+53
+00:03:23,000 --> 00:03:27,000
+Dus, wat je zegt is dat de overheid,
+dus publieke middelen,
+
+54
+00:03:27,000 --> 00:03:31,000
+gebruikt worden om Amerikaanse bedrijven 
+te hacken en mensen te bespioneren?
+
+55
+00:03:31,000 --> 00:03:32,000
+Dat is correct.
+
+56
+00:03:33,000 --> 00:03:36,000
+[Oliver] Wel, ik mag het hopen. Ik bedoel,
+dat is toch hoe we terroristen vangen, juist?
+
+57
+00:03:36,500 --> 00:03:37,500
+[Oliver] Ha, ha, ha
+
+58
+00:03:38,000 --> 00:03:41,000
+Ok, we doen de nabespreking na de lunch
+
+59
+00:03:41,000 --> 00:03:44,000
+Ik wil iedereen hier terugzien om 2 uur.
+Dame en heren.
+
+60
+00:03:45,000 --> 00:03:46,000
+Stipt!
+
+61
+00:03:46,000 --> 00:03:48,000
+Laat me even kort met je praten.
+Ik wil dat je even dit rapport bekijkt.
+
+62
+00:03:52,000 --> 00:03:54,000
+Wel, hoe was het?
+
+63
+00:03:54,000 --> 00:03:55,000
+Goed.
+
+64
+00:03:57,000 --> 00:03:58,000
+Uh, dat biept.
+
+65
+00:04:07,000 --> 00:04:08,000
+Wat is er mis?
+
+66
+00:04:09,000 --> 00:04:10,000
+Het ziet er naar uit dat
+
+67
+00:04:11,000 --> 00:04:15,000
+iemand probeert in te breken bij Firefense.
+
+68
+00:04:18,000 --> 00:04:19,000
+Is dat mogelijk?
+
+69
+00:04:19,000 --> 00:04:25,000
+Iemand probeert de router hypervisor te patchen
+via het netwerk parser hoofdproces.
+
+70
+00:04:25,000 --> 00:04:28,000
+Mia, luister. Ze gebruikten dezelfde
+verdomde beveiligingsfouten
+
+71
+00:04:28,000 --> 00:04:31,000
+als bij de aanval op Syrië.
+
+72
+00:04:31,00 --> 00:04:32,000
+Maar, waarvoor?
+
+73
+00:04:32,000 --> 00:04:33,000
+Data.
+
+74
+00:04:33,000 --> 00:04:36,000
+Firefense wordt gebruikt op de
+meeste van de grootste Internet sites
+
+75
+00:04:36,000 --> 00:04:39,000
+Wanneer ze meer netwerkverkeer 
+ontvangen dan ze aankunnen 
+
+76
+00:04:39,000 --> 00:04:42,000
+zetten ze het aan en zo kunnen
+wij het volume managen voor hen
+
+77
+00:04:44,000 --> 00:04:47,000
+Dus, door in te breken bij Firefense
+kan je direct netwerkverkeer onderscheppen?
+
+78
+00:04:47,000 --> 00:04:50,000
+Inclusief HTTPS verbindingen.
+
+79
+00:04:50,000 --> 00:04:53,000
+Dus wacht, je denkt dat NSA probeert
+binnen te raken bij Firefense?
+
+80
+00:04:53,000 --> 00:04:56,000
+Het kan hen zijn of een andere bekwame groep.
+
+81
+00:04:56,000 --> 00:04:57,000
+Hoe ernstig is dit?
+
+82
+00:04:57,000 --> 00:04:59,000
+Dat weten we nog niet, Generaal.
+
+83
+00:04:59,000 --> 00:05:00,000
+Niet mooi.
+
+84
+00:05:00,000 --> 00:05:02,000
+Mike Donahue is ons op het spoor, Meneer.
+
+85
+00:05:02,000 --> 00:05:04,000
+Wie is dat?
+
+86
+00:05:04,000 --> 00:05:07,000
+Ik was geheimheid gegarandeerd
+voor deze operatie.
+
+87
+00:05:07,000 --> 00:05:10,000
+Wel, Donahue is een analyst bij Firefense,
+
+88
+00:05:10,000 --> 00:05:13,000
+en het is heel goed mogelijk dat hij dicht 
+bij het ondermijnen van deze operatie is.
+
+89
+00:05:13,000 --> 00:05:18,000
+We hebben toegang to verschillende third
+party infrastructuur over gans de wereld
+
+90
+00:05:18,000 --> 00:05:20,000
+en gebruiken deze als proxy en bescherming.
+
+91
+00:05:21,000 --> 00:05:25,000
+Operation management op de laatste hop
+gebeurt vanuit een lokaal bedrijf.
+
+92
+00:05:25,000 --> 00:05:28,000
+Op dit moment is de groep er
+zich compleet niet bewust van.
+
+93
+00:05:28,000 --> 00:05:30,000
+Dus wat is onze blootstelling op dit moment?
+
+94
+00:05:30,000 --> 00:05:31,000
+En kunnen we aan hen gekoppeld worden?
+
+95
+00:05:31,000 --> 00:05:35,000
+We herevalueren onze OPSEC in 
+de operatie op dit moment.
+
+96
+00:05:35,000 --> 00:05:36,000
+We weten het niet.
+
+97
+00:05:37,000 --> 00:05:38,000
+Ik zal de packets terug traceren.
+
+98
+00:05:38,000 --> 00:05:40,000
+Mike, ik denk niet dat je dit moet doen.
+
+99
+00:05:40,000 --> 00:05:41,000
+Waarom niet?
+
+100
+00:05:41,000 --> 00:05:44,000
+Indien Firefense aangevallen wordt, 
+dan ook Facebook, Yahoo, Google...
+
+101
+00:05:44,000 --> 00:05:46,000
+Dit is geen speeltuin, weet je?
+
+102
+00:05:46,000 --> 00:05:48,000
+Nog meer een reden om het te belichten.
+
+103
+00:05:48,000 --> 00:05:49,000
+Ik bedoel, de mensen hebben het recht om te weten
+
+104
+00:05:50,000 --> 00:05:52,000
+Begrijp, begrijp je het niet?
+
+105
+00:05:52,000 --> 00:05:53,000
+Nee, toch wel!
+
+106
+00:05:53,000 --> 00:05:55,000
+Het is enkel dat indien NSA hierachter zit
+
+107
+00:05:55,000 --> 00:05:57,000
+je meteen de FBI achter je aan zal hebben.
+
+108
+00:05:57,000 --> 00:05:59,000
+Waarom zou je dat risico willen nemen?
+
+109
+00:05:59,000 --> 00:06:01,000
+Samuel is niet gestorven voor een land van profiteurs.
+
+110
+00:06:01,000 --> 00:06:04,000
+Oh, ik zie het al. Het zijn opnieuw
+je persoonlijke spoken.
+
+111
+00:06:04,000 --> 00:06:05,000
+Fuck you.
+Stop dat te zeggen.
+
+112
+00:06:05,000 --> 00:06:07,000
+Mike, het is al 2 jaar geleden.
+
+113
+00:06:08,000 --> 00:06:10,000
+Alsjeblieft, doe gewoon niks-
+
+114
+00:06:10,000 --> 00:06:11,000
+[Gesprek beëindigd]
+
+115
+00:06:10,000 --> 00:06:11,000
+dwaas.
+
+116
+00:06:12,000 --> 00:06:13,000
+Fuck.
+
+117
+00:06:15,000 --> 00:06:16,000
+Hoi...
+
+118
+00:06:16,000 --> 00:06:17,000
+Hoi!
+
+119
+00:06:18,000 --> 00:06:19,000
+Waar ging dat over?
+
+120
+00:06:19,000 --> 00:06:22,000
+Het ziet ernaar uit dat George Orwell een optimist was.
+
+121
+00:06:22,000 --> 00:06:24,000
+Ik denk dat hij deze keer misschien iets op het spoor is.
+
+122
+00:06:25,000 --> 00:06:27,000
+Ok, breng me op de hoogte.
+
+123
+00:06:30,000 --> 00:06:36,000
+PRISM is de codenaam van een programma 
+voor het verzamelen van gegevens gestart in 2007.
+
+124
+00:06:37,000 --> 00:06:39,000
+Hier is iets wat je moet weten.
+
+125
+00:06:40,000 --> 00:06:43,000
+Overheidsprogramma's zoals PRISM
+
+126
+00:06:43,000 --> 00:06:47,000
+gaan niet echt over surveillance van mensen
+waarvan ze denken dat ze iets verkeerd doen.
+
+127
+00:06:48,000 --> 00:06:51,000
+Het gaat om surveillance van iedereen.
+
+128
+00:06:51,000 --> 00:06:56,000
+Inlichtingendiensten hebben die massale
+Internet surveillance niet uitgevonden,
+
+129
+00:06:56,000 --> 00:06:59,000
+Het is uitgevonden door private bedrijven.
+
+130
+00:07:00,000 --> 00:07:05,000
+Inlichtingendiensten hebben zich enkel gerealiseerd
+dat ze gegevens verzameld door die bedrijven konden gebruiken
+
+131
+00:07:05,000 --> 00:07:08,000
+Want het Internet is extreem complex
+
+132
+00:07:08,000 --> 00:07:11,000
+je lokale communicatie tussen jezelf en je vrouw
+
+133
+00:07:11,000 --> 00:07:15,000
+kan van New York naar Londen gestuurd worden en terug, 
+en onderschept worden in het midden.
+
+134
+00:07:16,000 --> 00:07:19,000
+Online surveillance kan de meeste 
+mensen weinig schelen
+
+135
+00:07:19,000 --> 00:07:22,000
+omdat ze denken dat ze niets 
+te verbergen hebben.
+
+136
+00:07:22,000 --> 00:07:26,000
+Je kan niets te verbergen hebben,
+maar je hebt alles te beschermen.
+
+137
+00:07:28,000 --> 00:07:30,000
+Eerst kwam het netwerkverkeer van China
+
+138
+00:07:30,000 --> 00:07:34,000
+maar, hey, ik was niet van plan
+een Mandiant te doen.
+
+139
+00:07:36,000 --> 00:07:39,000
+Het duurde niet heel lang om deze
+unserialization fout te vinden
+
+140
+00:07:39,000 --> 00:07:42,000
+die zorgde voor code execution
+in de Chinese server.
+
+141
+00:07:43,000 --> 00:07:46,000
+De Chinese server maakte dan een
+verbinding naar een printer in het VK.
+
+142
+00:07:47,000 --> 00:07:48,000
+Klasse!
+
+143
+00:07:48,000 --> 00:07:50,000
+Ik weet nu wat ik moet doen.
+
+144
+00:07:50,000 --> 00:07:52,000
+Het is een goede zaak om Sonic vrienden te hebben,
+
+145
+00:07:52,000 --> 00:07:55,000
+je geeft ze een duwtje, en je krijgt zero days.
+
+146
+00:07:56,000 --> 00:07:57,000
+Alsjeblieft, alsjeblieft, alsjeblieft.
+
+147
+00:07:58,000 --> 00:08:00,000
+Wel dat was gemakkelijk.
+
+148
+00:08:01,000 --> 00:08:02,000
+Ja.
+
+149
+00:08:02,000 --> 00:08:04,000
+De volgende hop in de verbinding was de server in Rusland.
+
+150
+00:08:04,000 --> 00:08:07,000
+Meerdere servers actief...
+ik kon de rush voelen.
+
+151
+00:08:07,000 --> 00:08:09,000
+Ja, ja, ja. Dat shellshock ding.
+
+152
+00:08:09,000 --> 00:08:10,000
+Focus!
+
+153
+00:08:10,000 --> 00:08:11,000
+Gelukkig had ik nu extra hulp.
+
+154
+00:08:11,000 --> 00:08:12,000
+Ik doe het.
+
+155
+00:08:13,000 --> 00:08:14,000
+Ook Mia.
+
+156
+00:08:36,000 --> 00:08:37,000
+Ik heb het! 
+
+157
+00:08:37,000 --> 00:08:39,000
+Shellshock op de headers op poort 8080
+
+158
+00:08:39,000 --> 00:08:43,000
+Ik gebruikte een privé kernel exploit om privileges 
+te escaleren tot root op de Russische server.
+
+159
+00:08:43,000 --> 00:08:45,000
+Die IP prefix...
+
+160
+00:08:46,000 --> 00:08:47,000
+US?
+
+161
+00:08:47,000 --> 00:08:49,000
+Je maakt een grapje?
+Een bakkerij!
+
+162
+00:08:50,000 --> 00:08:52,000
+Is dit een Hollywood film of wat?
+
+163
+00:08:53,000 --> 00:08:54,000
+Tijd voor een bezoekje?
+
+164
+00:08:57,000 --> 00:08:58,000
+Absoluut!
+
+168
+00:09:14,000 --> 00:09:15,500
+Hallo. Mijn naam is Mike Donahue.
+
+169
+00:09:15,500 --> 00:09:17,000
+Ik leef iets verderop.
+Oh, dag Mevr. Sievers.
+
+170
+00:09:17,000 --> 00:09:18,000
+Hoi Mike!
+
+171
+00:09:18,000 --> 00:09:20,000
+Ik werk voor een cybersecurity 
+bedrijf met de naam Firefense
+
+172
+00:09:20,000 --> 00:09:23,000
+en onze servers zijn gehackt
+
+173
+00:09:23,000 --> 00:09:25,000
+door een rootkit, die een verbinding 
+maakte naar onze... en...
+
+174
+00:09:25,000 --> 00:09:26,000
+...ik heb uw hulp nodig!
+
+175
+00:09:28,000 --> 00:09:29,000
+Mijn hulp?
+
+176
+00:09:29,000 --> 00:09:30,000
+Ja.
+
+177
+00:09:30,000 --> 00:09:35,000
+We hebben de C&C gevolgd, en die jumpte naar een 
+VPS in China, het VK, dan Rusland
+
+178
+00:09:35,000 --> 00:09:37,000
+en finaal terug naar hier.
+
+179
+00:09:38,000 --> 00:09:39,000
+Hier?
+
+180
+00:09:39,000 --> 00:09:43,000
+Dat is correct. Ik geloof dat u de proxy bent.
+Dat is de proxy.
+
+181
+00:09:43,000 --> 00:09:45,000
+Ik begrijp het niet.
+
+182
+00:09:46,000 --> 00:09:47,000
+De C&C is...
+
+190
+00:09:49,000 --> 00:09:50,000
+Ik heb gewoon een paar minuten nodig.
+
+191
+00:09:51,000 --> 00:09:52,000
+Een paar minuten?
+
+192
+00:09:52,000 --> 00:09:56,000
+Ja, om de juiste software te installeren
+en het proxyverkeer terug te volgen.
+
+193
+00:09:56,000 --> 00:09:57,000
+Scheer je weg! Je raakt dat niet aan.
+
+194
+00:09:58,000 --> 00:10:01,000
+Ik heb net $500 uitgegeven om dat te
+repareren en jij komt niet in de buurt.
+
+195
+00:10:01,000 --> 00:10:04,000
+Maar mevrouw, je begrijpt het niet.
+Je wordt gehackt.
+
+196
+00:10:04,000 --> 00:10:06,000
+Oh nee.
+Ik ga er niet op in.
+
+197
+00:10:06,000 --> 00:10:07,000
+Ik weet wat dit is.
+
+198
+00:10:07,000 --> 00:10:09,000
+Ik lees al die kettingmail.
+
+199
+00:10:09,000 --> 00:10:13,000
+Je wil gewoon toegang tot mijn Facebook
+foto's om ze aan Obama te geven.
+
+200
+00:10:13,000 --> 00:10:16,000
+Je hebt het recht niet om me te verraden.
+
+201
+00:10:17,000 --> 00:10:20,000
+Mike, verraad die vrouw toch niet.
+
+202
+00:10:27,000 --> 00:10:29,000
+Ik weet wat die hackers doen
+
+203
+00:10:29,000 --> 00:10:31,000
+ze bespioneren je foto's
+en ze lezen al je tekstberichten
+
+204
+00:10:32,000 --> 00:10:37,000
+Ze kunnen zelfs geld stelen van je bankrekening
+en het naar Zwitserland sture of zo.
+
+205
+00:10:37,000 --> 00:10:38,000
+Echt?
+
+206
+00:10:38,000 --> 00:10:39,000
+Oh, het is verschrikkelijk.
+
+207
+00:10:39,000 --> 00:10:40,000
+I weet het.
+
+208
+00:10:41,000 --> 00:10:42,000
+Oh, wacht.
+
+209
+00:10:42,000 --> 00:10:45,000
+Heb je mijn slagroomtaart erbij gestopt?
+
+210
+00:10:46,000 --> 00:10:50,000
+Wel je weet dat dat de reden is dat 
+ik geen banken gebruik.
+
+211
+00:10:51,000 --> 00:10:54,000
+Ik stop mijn geld thuis onder mijn matras.
+
+212
+00:10:54,000 --> 00:10:57,000
+Dat is wat mijn moeder me geleerd heeft.
+
+213
+00:11:02,000 --> 00:11:03,000
+Bedankt, tot ziens!
+
+214
+00:11:09,000 --> 00:11:11,000
+Ze beslissen over mijn toekomst.
+
+215
+00:11:11,000 --> 00:11:12,000
+Net zij die mijn hoofd willen,
+
+216
+00:11:13,000 --> 00:11:14,000
+die mijn kennis willen.
+
+217
+00:11:14,000 --> 00:11:18,000
+Ze willen dat ik zwijg want ik weet
+wat ze altijd hebben proberen te verbergen.
+
+218
+00:11:18,000 --> 00:11:21,000
+Ik ben John Inglis, adjunct-directeur van
+de National Security Agency.
+
+219
+00:11:21,000 --> 00:11:22,000
+Hoe gaat het met u?
+
+220
+00:11:23,000 --> 00:11:26,000
+Maar ik ben maar één persoon.
+
+221
+00:11:33,000 --> 00:11:34,000
+Ik weet van je reis naar Bermuda
+
+222
+00:11:34,000 --> 00:11:35,000
+Van je relatie met uw neef.
+
+223
+00:11:35,000 --> 00:11:37,000
+Ik wat je denkt van je baas
+
+224
+00:11:37,000 --> 00:11:38,000
+en ik heb ook een foto van je penis gezien.
+
+225
+00:11:38,000 --> 00:11:40,000
+Je reed te snel onder invloed
+
+226
+00:11:40,000 --> 00:11:42,000
+Je googelde naar Chihuahua puppies
+
+227
+00:11:42,000 --> 00:11:43,000
+en hoe je schoonmoeder te vergiftigen.
+
+228
+00:11:43,000 --> 00:11:45,000
+Je telefoon luisterde in je broekzak
+
+229
+00:11:45,000 --> 00:11:46,500
+waneer je Lucy voor het eerst ontmoette,
+
+230
+00:11:46,500 --> 00:11:48,000
+ook waneer je de liefde bedreef.
+
+231
+00:11:48,000 --> 00:11:50,000
+Maar ik stal het niet.
+
+232
+00:11:50,000 --> 00:11:54,000
+Het reisde kilometers rondom de wereld
+en wordt opnieuw toegelaten in je land.
+
+233
+00:11:54,000 --> 00:11:57,000
+Homeland security? Binnenlands?
+
+234
+00:11:57,000 --> 00:11:58,500
+Bullshit.
+
+235
+00:12:00,000 --> 00:12:02,000
+We moeten weten met wie je werkt.
+
+236
+00:12:04,000 --> 00:12:09,000
+Je kleine stunt brengt het leven van Amerikaanse burgers
+in gevaar en ik kan dat niet laten gebeuren.
+
+237
+00:12:11,000 --> 00:12:12,000
+Dat is een leugen.
+
+238
+00:12:12,000 --> 00:12:15,000
+Er zijn geen grenzen aan data,
+
+239
+00:12:15,000 --> 00:12:18,000
+en de Patrio Act was nooit
+ontworpen om je te beschermen
+
+240
+00:12:19,000 --> 00:12:24,000
+We hebben deze informatie nu, en we hebben niet 
+langer de luxe om te doen alsof we van niks weten.
+
+241
+00:12:25,000 --> 00:12:26,000
+Schuldig.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

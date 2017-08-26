@@ -1,0 +1,1009 @@
+1
+00:00:07,000 --> 00:00:10,000
+I'm Mike Donahue.
+
+2
+00:00:13,000 --> 00:00:15,000
+Oh, don't worry.
+
+3
+00:00:14,000 --> 00:00:18,000
+I won't be needing this 
+where we're going.
+
+4
+00:00:37,000 --> 00:00:42,000
+Freeze! 
+Special Agent DeMarco. Put your fucking hands up.
+
+5
+00:00:48,000 --> 00:00:51,000
+This guy just hired me 
+at a firm called Firefense.
+
+6
+00:00:51,000 --> 00:00:55,000
+Go ahead, grab one Mike.
+
+7
+00:00:55,000 --> 00:00:58,000
+What's the occasion Oliver?
+
+8
+00:00:58,000 --> 00:01:00,000
+A toast to Mike,
+
+9
+00:01:00,000 --> 00:01:03,000
+I'm really looking forward to tomorrow.
+
+10
+00:01:06,000 --> 00:01:10,000
+This is some colleague from work
+I still don't know much about.
+
+11
+00:01:10,000 --> 00:01:14,000
+So Mike, what's so special 
+about your preemptive rootkit?
+
+12
+00:01:16,000 --> 00:01:22,000
+Well, administrators are usually bound
+to monitoring local traffic
+
+13
+00:01:22,000 --> 00:01:25,000
+and event logging can be faked
+if the router is already compromised,
+
+14
+00:01:25,000 --> 00:01:27,000
+Like the attempt on Syria.
+
+15
+00:01:27,000 --> 00:01:30,000
+In a warzone it's frequent to shut down
+Internet and mobile phone access
+
+16
+00:01:31,000 --> 00:01:33,000
+to opposition held areas.
+
+17
+00:01:33:42,000 --> 00:01:38,000
+BGP routes to Syria's IP space
+
+18
+00:01:38,000 --> 00:01:43,000
+were all simultaneously withdrawn
+from all of Syria's upstream providers.
+
+19
+00:01:43,000 --> 00:01:45,000
+Al-Assad blamed the outage 
+on a terrorist attack.
+
+20
+00:01:45,000 --> 00:01:47,00
+Only it wasn't.
+
+21
+00:01:47,000 --> 00:01:51,000
+That can only be done at
+the backbone router level
+
+22
+00:01:51,000 --> 00:01:59,000
+and only big agencies like the NSA, 
+or crazy lonewolf hackers, would attempt so.
+
+23
+00:01:59,000 --> 00:02:01,000
+And you can?
+
+24
+00:02:02,000 --> 00:02:03,000
+I do.
+
+25
+00:02:03,000 --> 00:02:05,000
+And I wouldn't have bricked it.
+
+26
+00:02:06,000 --> 00:02:08,000
+Ok gentlemen, this one's on me!
+
+27
+00:02:08,000 --> 00:02:10,000
+Or I should say, Firefense.
+Cheers
+
+28
+00:02:10,000 --> 00:02:12,000
+[Doorbell]
+
+29
+00:02:13,000 --> 00:02:16,00
+Hi Mrs. Sievers!
+
+30 
+00:02:16,00 --> 00:02:17:00
+- Hi Mike. 
+- Right, right now's not a good time.
+
+31
+00:02:17,000 --> 00:02:20,000
+- It's Mrs. Sievers.
+- Well, it's never a good time with you.
+
+32
+00:02:20,000 --> 00:02:22,00
+- Can you put her on the phone, please?
+- I heard you were working all night
+
+33
+00:02:22,000 --> 00:02:25,000
+So I though I'd just bring you
+a little something.
+
+34
+00:02:25,000 --> 00:02:26,00
+I'm not hungry
+
+35
+00:02:26,000 --> 00:02:28,000
+No way! You'll talk about me.
+
+36
+00:02:29,000 --> 00:02:32,000
+Ok, you know what?
+Just tell her I said hi.
+
+37
+00:02:32,000 --> 00:02:35,000
+- Will do!
+- And good luck tomorrow.
+
+38
+00:02:37,000 --> 00:02:39,000
+There's a mosquito in my room.
+
+39
+00:02:39,000 --> 00:02:40,000
+I'm hungry now!
+
+40
+00:02:40,000 --> 00:02:43,000
+Don't you just hate it when you
+hear that thing buzzing around
+
+41
+00:02:43,000 --> 00:02:45,000
+but you don't know where
+it's coming from?
+
+42
+00:02:49,000 --> 00:02:53,000
+We open the door, close it behind us
+and wait for the prey.
+
+43
+00:02:54,000 --> 00:02:55,000
+Thanks Mike!
+
+44
+00:02:55,000 --> 00:02:56,000
+Awesome job.
+
+45
+00:02:57,000 --> 00:02:58,000
+Basically ladies and gentlemen,
+
+46
+00:02:58,000 --> 00:03:02,000
+we're the only ones in the world
+that can monitor from inside the router.
+
+47
+00:03:02,000 --> 00:03:04,000
+I don't think we're the only ones, though.
+
+48
+00:03:04,000 --> 00:03:10,000
+Intelligent agencies have access to all
+sorts of backdoors and vulnerabilities.
+
+49
+00:03:10,000 --> 00:03:15,000
+And not just of routers, of TVs and cellphones.
+
+50
+00:03:15,000 --> 00:03:20,000
+Think about all the data that 
+those devices collect.
+
+51
+00:03:20,000 --> 00:03:21,000
+Good.
+
+52
+00:03:22,000 --> 00:03:23,000
+Any questions?
+
+53
+00:03:23,000 --> 00:03:27,000
+So, you're saying the government, 
+therefore public resources,
+
+54
+00:03:27,000 --> 00:03:31,000
+are being used to hack into 
+American companies to spy on people?
+
+55
+00:03:31,000 --> 00:03:32,000
+That's right.
+
+56
+00:03:32,000 --> 00:03:36,000
+[Oliver] Well, I certainy hope so. I mean, 
+that's how we catch the terorists, right?
+
+57
+00:03:36,500 --> 00:03:37,500
+[Oliver] Ja, ja, ja
+
+58
+00:03:37,000 --> 00:03:41,000
+Ok, we're going to be debriefing after lunch
+
+59
+00:03:41,000 --> 00:03:44,000
+I wanna see everybody back here at 2 o´clock.
+Lady and gentlemen. 
+
+60
+00:03:44,000 --> 00:03:46,000
+Sharp!
+
+61
+00:03:46,000 --> 00:03:48,000
+Let me talk with you for a second. 
+I need you to go over this report.
+
+62
+00:03:52,000 --> 00:03:54,000
+Well, how did it go?
+
+63
+00:03:54,000 --> 00:03:55,000
+Good.
+
+64
+00:03:57,000 --> 00:03:58,000
+Uhm, that's beeping.
+
+65
+00:04:07,000 --> 00:04:08,000
+What's wrong?
+
+66
+00:04:09,000 --> 00:04:11,000
+It looks like
+
+67
+00:04:11,000 --> 00:04:15,000
+someone is trying to hack into Firefense.
+
+68
+00:04:18,000 --> 00:04:19,000
+Is that even possible?
+
+69
+00:04:19,000 --> 00:04:25,000
+Someone is trying to patch the router hypervisor
+through the main network parser process.
+
+70
+00:04:25,000 --> 00:04:28,000
+Mia, listen. They were using the 
+same fucking vulnerabilities
+
+71
+00:04:28,000 --> 00:04:31,000
+as the attack on Syria.
+
+72
+00:04:31,00 --> 00:04:32,000
+But, what for?
+
+73
+00:04:32,000 --> 00:04:33,000
+Data.
+
+74
+00:04:33,000 --> 00:04:36,000
+Firefense is used on most
+of the biggest Internet sites
+
+75
+00:04:36,000 --> 00:04:39,000
+When they receive more traffic
+that they can handle
+
+76
+00:04:39,000 --> 00:04:43,000
+they turn it on so we manage 
+the traffic volume for them
+
+77
+00:04:43,000 --> 00:04:47,000
+So, by hacking into Firefense you can
+perform direct traffic interception?
+
+78
+00:04:47,000 --> 00:04:50,000
+Including HTTPS connections.
+
+79
+00:04:50,000 --> 00:04:53,000
+So wait, you think the NSA is trying
+to get into Firefense?
+
+80
+00:04:53,000 --> 00:04:56,000
+It could be them or some other skilled group.
+
+81
+00:04:56,000 --> 00:04:57,000
+How serious is this?
+
+82
+00:04:57,000 --> 00:04:59,000
+We don't know yet, General.
+
+83
+00:04:59,000 --> 00:05:00,000
+Not pretty.
+
+84
+00:05:00,000 --> 00:05:02,000
+Mike Donahue is onto us, Sir.
+
+85
+00:05:02,000 --> 00:05:04,000
+Who's that?
+
+86
+00:05:04,000 --> 00:05:07,000
+I was guaranteed stealthiness 
+for this operation.
+
+87
+00:05:07,000 --> 00:05:10,000
+Well, Donahue is an analyst at Firefense,
+
+88
+00:05:10,000 --> 00:05:13,000
+and it's very possible he may be 
+close to subverting the operation.
+
+89
+00:05:13,000 --> 00:05:18,000
+We acquired access to various third party
+infrastructures across the world
+
+90
+00:05:18,000 --> 00:05:20,000
+and use them as proxy chain and cover.
+
+91
+00:05:21,000 --> 00:05:25,000
+Operation management on the last hop
+is performed from a local business.
+
+92
+00:05:25,000 --> 00:05:28,000
+Right now, the group is completely
+oblivious to it.
+
+93
+00:05:28,000 --> 00:05:30,000
+So what is our exposure at this time?
+
+94
+00:05:30,000 --> 00:05:31,000
+And can we be linked to them?
+
+95
+00:05:31,000 --> 00:05:35,000
+We are reevaluating our OPSEC 
+in the operation now.
+
+96
+00:05:35,000 --> 00:05:36,000
+We don't know.
+
+97
+00:05:37,000 --> 00:05:38,000
+I'll trace the packets back.
+
+98
+00:05:38,000 --> 00:05:40,000
+Mike, I don't think you should do this.
+
+99
+00:05:40,000 --> 00:05:41,000
+Why shouldn't I?
+
+100
+00:05:41,000 --> 00:05:44,000
+If Firefense is under attack, 
+so is Facebook, Yahoo, Google...
+
+101
+00:05:44,000 --> 00:05:46,000
+This is not some kid's playground, you know?
+
+102
+00:05:46,000 --> 00:05:48,000
+More of the reason to expose it.
+
+103
+00:05:48,000 --> 00:05:50,000
+I mean, the people deserve to know
+
+104
+00:05:50,000 --> 00:05:52,000
+Don't, don't you understand?
+
+105
+00:05:52,000 --> 00:05:53,000
+No, I do!
+
+106
+00:05:53,000 --> 00:05:55,000
+It's just that if the NSA is behind all that
+
+107
+00:05:55,000 --> 00:05:57,000
+you're going to have the FBI on your back in no time.
+
+108
+00:05:57,000 --> 00:05:59,000
+Why would you want to take on that risk?
+
+109
+00:05:59,000 --> 00:06:01,000
+Samuel didn't die for a country of leechers.
+
+110
+00:06:01,000 --> 00:06:04,000
+Oh I see. It's your own
+personal ghosts again.
+
+111
+00:06:04,000 --> 00:06:05,000
+Fuck you.
+Stop saying that.
+
+112
+00:06:05,000 --> 00:06:08,000
+Mike, it's been 2 years for fucks sake.
+
+113
+00:06:08,000 --> 00:06:10,000
+Please, just don't do anything-
+
+114
+00:06:10,000 --> 00:06:11,000
+stupid.
+
+115
+00:06:12,000 --> 00:06:13,000
+Fuck.
+
+116
+00:06:15,000 --> 00:06:16,000
+Hey...
+
+117
+00:06:16,000 --> 00:06:17,000
+Hey!
+
+118
+00:06:18,000 --> 00:06:19,000
+What was that about?
+
+119
+00:06:19,000 --> 00:06:22,000
+Turns out, George Orwell was an optimist.
+
+120
+00:06:22,000 --> 00:06:25,000
+I think he might be onto something this time.
+
+121
+00:06:25,000 --> 00:06:27,000
+Ok, fill me in.
+
+122
+00:06:30,000 --> 00:06:36,000
+PRISM is a code name for a data 
+collection effort born in 2007.
+
+123
+00:06:37,000 --> 00:06:40,000
+Here's something you need to know.
+
+124
+00:06:40,000 --> 00:06:43,000
+Government programs like PRISM
+
+125
+00:06:43,000 --> 00:06:48,000
+are not really about doing surveillance on
+people they think are doing something wrong.
+
+126
+00:06:48,000 --> 00:06:51,000
+It's about doing surveillance
+on everybody.
+
+127
+00:06:51,000 --> 00:06:56,000
+Intelligence agencies did not invent
+bulk Internet surveillance,
+
+128
+00:06:56,000 --> 00:06:59,000
+It was invented by private companies.
+
+129
+00:07:00,000 --> 00:07:05,000
+Intelligence agencies just realized that they
+could use the data collected by those companies
+
+130
+00:07:05,000 --> 00:07:08,000
+Because the Internet is massively complex
+
+131
+00:07:08,000 --> 00:07:11,000
+your domestic communication between 
+you and your wife
+
+132
+00:07:11,000 --> 00:07:16,000
+can go from New York to London and back 
+and get caught up in the middle.
+
+133
+00:07:16,000 --> 00:07:19,000
+Most people couldn't care less 
+about online surveillance 
+
+134
+00:07:19,000 --> 00:07:22,000
+because they think they have
+nothing to hide.
+
+135
+00:07:22,000 --> 00:07:28,000
+You might have nothing to hide,
+but you have everything to protect.
+
+136
+00:07:28,000 --> 00:07:30,000
+Initially network traffic came from China
+
+137
+00:07:30,000 --> 00:07:34,000
+but, hey, I wasn't going to 
+be pulling a Mandiant.
+
+138
+00:07:36,000 --> 00:07:39,000
+It didn't take too long to find 
+this unserialization vulnerability
+
+139
+00:07:39,000 --> 00:07:43,000
+to get code execution in 
+the Chinese server.
+
+140
+00:07:43,000 --> 00:07:47,000
+The Chinese server then connected
+to a printer in the UK.
+
+141
+00:07:47,000 --> 00:07:48,000
+Classy!
+
+142
+00:07:48,000 --> 00:07:50,000
+I know what to do now.
+
+143
+00:07:50,000 --> 00:07:52,000
+It's good to have Sonic friends,
+
+144
+00:07:52,000 --> 00:07:56,000
+you nudge them, and zero days come off.
+
+145
+00:07:56,000 --> 00:07:58,000
+Please, please, please.
+
+146
+00:07:58,000 --> 00:08:01,000
+Well that was convenient.
+
+147
+00:08:01,000 --> 00:08:02,000
+Yes.
+
+148
+00:08:02,000 --> 00:08:04,000
+The next hop in the communication was the server in Russia.
+
+149
+00:08:04,000 --> 00:08:07,000
+Many servers running...
+I could feel the rush.
+
+150
+00:08:07,000 --> 00:08:09,000
+Yeah, yeah, yeah. The shellshock thing.
+
+151
+00:08:09,000 --> 00:08:10,000
+Focus!
+
+152
+00:08:10,000 --> 00:08:11,000
+Luckily, I had extra help now.
+
+153
+00:08:11,000 --> 00:08:13,000
+I'm on it.
+
+154
+00:08:13,000 --> 00:08:16,000
+Including Mia.
+
+155
+00:08:36,000 --> 00:08:37,000
+Got it! 
+
+156
+00:08:37,000 --> 00:08:39,000
+Shellshock on the header values on 8080
+
+157
+00:08:39,000 --> 00:08:43,000
+I used private kernel exploit to escalate
+privileges to root on the Russian server.
+
+158
+00:08:43,000 --> 00:08:46,000
+That IP prefix...
+
+159
+00:08:46,000 --> 00:08:47,000
+US?
+
+160
+00:08:47,000 --> 00:08:50,000
+Are you kidding me?
+A bakeshop!
+
+161
+00:08:50,000 --> 00:08:53,000
+Is this a Hollywood movie or what?
+
+162
+00:08:53,000 --> 00:08:55,000
+Time for a physical visit?
+
+163
+00:08:57,000 --> 00:08:58,000
+Definitely!
+
+164
+00:09:14,000 --> 00:09:15,500
+Hello. My name is Mike Donahue.
+
+165
+00:09:15,500 --> 00:09:17,000
+I live down the street. 
+Oh, hi Mrs. Sievers.
+
+166
+00:09:17,000 --> 00:09:18,000
+Hi Mike!
+
+167
+00:09:18,000 --> 00:09:20,000
+I work for a cybersecurity 
+company named Firefense
+
+168
+00:09:20,000 --> 00:09:23,000
+and our servers have been compromised
+
+169
+00:09:23,000 --> 00:09:25,000
+by a rootkit, that connected to our... and...
+
+170
+00:09:25,000 --> 00:09:26,000
+...I need you help!
+
+171
+00:09:28,000 --> 00:09:29,000
+My help?
+
+172
+00:09:29,000 --> 00:09:30,000
+Yes.
+
+173
+00:09:30,000 --> 00:09:35,000
+We've tracked the C&C and it jumped to
+a VPS in China, the UK, then Russia
+
+174
+00:09:35,000 --> 00:09:38,000
+and finally back here.
+
+175
+00:09:38,000 --> 00:09:39,000
+Here?
+
+176
+00:09:39,000 --> 00:09:43,000
+That's right. I believe you're the proxy. 
+That is the proxy.
+
+177
+00:09:43,000 --> 00:09:46,000
+I don't understand son.
+
+178
+00:09:46,000 --> 00:09:48,000
+The C&C is...
+
+179
+00:09:49,000 --> 00:09:51,000
+I just need a few minutes.
+
+180
+00:09:51,000 --> 00:09:52,000
+A few moments?
+
+181
+00:09:52,000 --> 00:09:56,000
+Yes, to set up the tools and track 
+back the proxy traffic.
+
+182
+00:09:56,000 --> 00:09:58,000
+Scoot! No way you're touching that.
+
+183
+00:09:58,000 --> 00:10:01,000
+I just spent $500 to get it fixed
+and you're not going near it.
+
+184
+00:10:01,000 --> 00:10:04,000
+But ma'am, you don't understand. 
+You're being hacked.
+
+185
+00:10:04,000 --> 00:10:06,000
+Oh no. 
+I won't bite.
+
+186
+00:10:06,000 --> 00:10:07,000
+I know what this is.
+
+187
+00:10:07,000 --> 00:10:09,000
+I read all those chain emails.
+
+188
+00:10:09,000 --> 00:10:13,000
+You just wanna get to my Facebook photos
+and hand them in to Obama.
+
+189
+00:10:13,000 --> 00:10:16,000
+You have no right to expose me, son.
+
+190
+00:10:17,000 --> 00:10:21,000
+Mike, don't expose the woman.
+
+191
+00:10:27,000 --> 00:10:29,000
+I know what them hackers do
+
+192
+00:10:29,000 --> 00:10:32,000
+they spy on your photos 
+and they read all your texts
+
+193
+00:10:32,000 --> 00:10:37,000
+They can even steal money from you bank account
+and send it to Switzerland or something.
+
+194
+00:10:37,000 --> 00:10:38,000
+Really?
+
+195
+00:10:38,000 --> 00:10:39,000
+Oh, it's terrible.
+
+196
+00:10:39,000 --> 00:10:40,000
+I know.
+
+197
+00:10:41,000 --> 00:10:42,000
+Oh, wait.
+
+198
+00:10:42,000 --> 00:10:46,000
+Did you include my cream pie?
+
+199
+00:10:46,000 --> 00:10:50,000
+Well you know that's why I don't use banks.
+
+200
+00:10:51,000 --> 00:10:54,000
+I keep my money at home under my mattress
+
+201
+00:10:54,000 --> 00:10:57,000
+That's what my mother told me to do.
+
+202
+00:11:02,000 --> 00:11:03,000
+Thank you, bye!
+
+203
+00:11:09,000 --> 00:11:11,000
+They are deciding my future.
+
+204
+00:11:11,000 --> 00:11:13,000
+Precisely those who want my head,
+
+205
+00:11:13,000 --> 00:11:14,000
+who want my knowledge.
+
+206
+00:11:14,000 --> 00:11:18,000
+They want me to stay quiet because 
+I know what they have always tried to hide.
+
+207
+00:11:18,000 --> 00:11:21,000
+I'm John Inglis, deputy director of the
+National Security Agency. 
+
+208
+00:11:21,000 --> 00:11:23,000
+How are you?
+
+209
+00:11:23,000 --> 00:11:26,000
+But I'm only one person.
+
+210
+00:11:32,000 --> 00:11:35,000
+I know about your trip to Bermuda.
+About your fling with your cousin.
+
+211
+00:11:35,000 --> 00:11:37,000
+I know what you think about your boss
+
+212
+00:11:37,000 --> 00:11:38,000
+and I've seen your dick pic too.
+
+213
+00:11:38,000 --> 00:11:40,000
+You were speeding during your DUI
+
+214
+00:11:40,000 --> 00:11:43,000
+You googled for Chihuahua puppies
+and how to poison your mother in law.
+
+215
+00:11:43,000 --> 00:11:45,000
+Your phone was listening in your pocket
+
+216
+00:11:45,000 --> 00:11:48,500
+when you met Lucy for the first time,
+when you made love with her too.
+
+217
+00:11:48,000 --> 00:11:50,000
+But I didn't steal it.
+
+218
+00:11:50,000 --> 00:11:54,000
+It has travelled miles around the world
+and is let back into the country.
+
+219
+00:11:54,000 --> 00:11:57,000
+Homeland security? Domestic?
+
+220
+00:11:57,000 --> 00:11:58,500
+Bullshit.
+
+221
+00:12:00,000 --> 00:12:02,000
+We need to know who are you working with.
+
+222
+00:12:04,000 --> 00:12:09,000
+Your little stunt is putting American citizens' lives 
+in danger and I cannot let that happen.
+
+223
+00:12:11,000 --> 00:12:12,000
+That's a lie.
+
+224
+00:12:12,000 --> 00:12:15,000
+There are no frontiers to data,
+
+225
+00:12:15,000 --> 00:12:18,000
+and the Patriot Act was never 
+designed to protect you
+
+226
+00:12:19,000 --> 00:12:24,000
+We have this information now, and we no longer 
+get the luxury of pleading ignorance.
+
+227
+00:12:25,000 --> 00:12:26,000
+Guilty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1001 @@
+1
+00:00:07,000 --> 00:00:09,000
+Em dic Mike Donahue.
+
+2
+00:00:13,000 --> 00:00:14,000
+Oh, no et preocupis.
+
+3
+00:00:14,000 --> 00:00:17,000
+No necessitaré res d'això
+allà on anem.
+
+4
+00:00:37,000 --> 00:00:41,000
+Aturi!
+Agent Especial DeMarco. Les putes mans en alt!
+
+5
+00:00:48,000 --> 00:00:51,000
+Aquest tipus m'acaba de contractar per
+a una empresa anomenada Firefense.
+
+6
+00:00:51,000 --> 00:00:54,000
+Vinga, fes-te'n un Mike.
+
+7
+00:00:55,000 --> 00:00:57,000
+Que cel·lebrem Oliver?
+
+8
+00:00:58,000 --> 00:00:59,000
+Un brindis pel Mike,
+
+9
+00:01:00,000 --> 00:01:02,000
+Ja tinc ganes que sigui demà.
+
+10
+00:01:06,000 --> 00:01:09,000
+Aquest és un company de feina,
+encara no sé gaire d'ell.
+
+11
+00:01:10,000 --> 00:01:13,000
+Bé Mike, que és això tan especial
+del teu "preemptive rootkit"?
+
+12
+00:01:16,000 --> 00:01:21,000
+Doncs, els administradors normalment estan
+limitats a monitoritzar tràfic local
+
+13
+00:01:22,000 --> 00:01:24,000
+i el log d'events es pot falsejar
+si el router ja està compromés,
+
+14
+00:01:25,000 --> 00:01:26,000
+Com aquell intent a Síria.
+
+15
+00:01:27,000 --> 00:01:30,000
+En zona de guerra, és comú tallar
+l'accés a Internet i comunicacions mòbils
+
+16
+00:01:31,000 --> 00:01:32,000
+en zones controlades per l'enemic.
+
+17
+00:01:33:42,000 --> 00:01:37,000
+Les rutes BGP de l'espai IP de Síria
+
+18
+00:01:38,000 --> 00:01:42,000
+varen caure totes d'una,
+les de tots els proveïdors de xarxa.
+
+19
+00:01:43,000 --> 00:01:45,000
+Al-Assad va culpar de la caiguda
+a un atac terrorista.
+
+20
+00:01:45,000 --> 00:01:46,00
+Però això no és el que va passar.
+
+21
+00:01:47,000 --> 00:01:50,000
+Això només es pot fer quan
+ataques els backbone routers
+
+22
+00:01:51,000 --> 00:01:57,000
+i només agències fortes com la NSA,
+o hackers penjats en solitari, ho intentarien.
+
+23
+00:01:59,000 --> 00:02:00,000
+I... tu hi pots?
+
+24
+00:02:02,000 --> 00:02:03,000
+Si, puc.
+
+25
+00:02:03,000 --> 00:02:05,000
+I jo no l'hauria brickejat.
+
+26
+00:02:06,000 --> 00:02:07,000
+Bé senyors, aquesta la pago jo!
+
+27
+00:02:08,000 --> 00:02:10,000
+O millor dit, Firefense.
+Salut!
+
+28
+00:02:11,000 --> 00:02:13,000
+[Timbre]
+
+29
+00:02:15,000 --> 00:02:16,00
+Hola senyora Sievers!
+
+30
+00:02:16,00 --> 00:02:17:00
+Hola Mike.
+Ara... ara no és un bon moment.
+
+31
+00:02:17,000 --> 00:02:20,000
+És la senyora Sievers.
+Bo, mai és un bon moment per tu.
+
+32
+00:02:20,000 --> 00:02:22,00
+Pots posar-la al telèfon si us plau?
+Ja vaig veure que has estat treballant tota la nit
+
+33
+00:02:22,000 --> 00:02:25,000
+Així que he pensat portar-te una coseta.
+
+34
+00:02:25,000 --> 00:02:26,00
+No tinc gana
+
+35
+00:02:26,000 --> 00:02:28,000
+Ni de conya! Us posareu a queixar-vos de mi!
+
+36
+00:02:29,000 --> 00:02:32,000
+Ok, saps que?
+Simplement saluda de part meva.
+
+37
+00:02:32,000 --> 00:02:34,000
+Si, ho faré.
+I bona sort demà.
+
+38
+00:02:37,000 --> 00:02:39,000
+Hi ha un mosquit per l'habitació.
+
+39
+00:02:39,000 --> 00:02:40,000
+Ara sí que tinc gana!
+
+40
+00:02:40,000 --> 00:02:43,000
+No et desespera estar sentint
+una cosa brunzint al teu voltant
+
+41
+00:02:43,000 --> 00:02:45,000
+i no saber d'on ve?
+
+42
+00:02:49,000 --> 00:02:53,000
+Entrem per la porta, la tanquem
+i esperem a la presa
+
+43
+00:02:54,000 --> 00:02:55,000
+Gràcies Mike!
+
+44
+00:02:55,000 --> 00:02:56,000
+Un treball extraordinari.
+
+45
+00:02:57,000 --> 00:02:58,000
+En resum senyors i senyores,
+
+46
+00:02:58,000 --> 00:03:02,000
+som els únics que reialment podem
+monitoritzar des de dintre del router.
+
+47
+00:03:02,000 --> 00:03:04,000
+No crec que siguem els únics, ho dubto.
+
+48
+00:03:04,000 --> 00:03:10,000
+Agències d'intel·ligencia tenen accés a tot
+tipus de backdoors i vulnerabilitats.
+
+49
+00:03:10,000 --> 00:03:15,000
+I no només de routers, sinó televisions i mòbils.
+
+50
+00:03:15,000 --> 00:03:19,000
+Penseu en tota la informació que
+aquests dispositius recullen.
+
+51
+00:03:20,000 --> 00:03:21,000
+Bé.
+
+52
+00:03:22,000 --> 00:03:23,000
+Alguna pregunta?
+
+53
+00:03:23,000 --> 00:03:27,000
+Llavors, ¿tu dius que el govern,
+és a dir recursos públics,
+
+54
+00:03:27,000 --> 00:03:31,000
+estan sent utilitzats per hackejar a
+empreses americanes per espiar a la població?
+
+55
+00:03:31,000 --> 00:03:32,000
+Correcte.
+
+56
+00:03:33,000 --> 00:03:36,000
+[Oliver] Bé, això espero. Vull dir,
+així és com s'agafa als terroristes, no?
+
+57
+00:03:36,500 --> 00:03:37,500
+[Oliver] Ja, ja, ja
+
+58
+00:03:38,000 --> 00:03:41,000
+Val, tindrem la reunió final després de dinar,
+
+59
+00:03:41,000 --> 00:03:44,000
+us vull aquí a tots a les 2 en punt.
+Senyoreta i senyors.
+
+60
+00:03:45,000 --> 00:03:46,000
+Puntuals!
+
+61
+00:03:46,000 --> 00:03:48,000
+He de parlar amb tu un moment.
+Necessito que revisis aquest informe.
+
+62
+00:03:52,000 --> 00:03:54,000
+Bé, com ha anat?
+
+63
+00:03:54,000 --> 00:03:55,000
+Bé.
+
+64
+00:03:57,000 --> 00:03:58,000
+Ehm, això està xiulant.
+
+65
+00:04:07,000 --> 00:04:08,000
+¿Que està passant?
+
+66
+00:04:09,000 --> 00:04:10,000
+Sembla que
+
+67
+00:04:11,000 --> 00:04:15,000
+algú està intentant hackejar Firefense.
+
+68
+00:04:18,000 --> 00:04:19,000
+Això és possible?
+
+69
+00:04:19,000 --> 00:04:25,000
+Algú està intentant parxejar l'hipervisor del router,
+des del procés principal del parsejador de xarxa.
+
+70
+00:04:25,000 --> 00:04:28,000
+Mia, escolta. Estaven fent servir les mateixes
+putes vulnerabilitats
+
+71
+00:04:28,000 --> 00:04:31,000
+que a l'atac a Síria.
+
+72
+00:04:31,00 --> 00:04:32,000
+Però, i per a què?
+
+73
+00:04:32,000 --> 00:04:33,000
+Informació.
+
+74
+00:04:33,000 --> 00:04:36,000
+Firefense es fa servir a la majoria
+de pàgines més utilitzades d'Internet.
+
+75
+00:04:36,000 --> 00:04:39,000
+Quan reben més tràfic del
+que poden suportar
+
+76
+00:04:39,000 --> 00:04:42,000
+ho activen i llavors nosaltres gestionem
+el volum de tràfic per ells.
+
+77
+00:04:44,000 --> 00:04:47,000
+Llavors, hackejant Firefense, pots
+inspeccionar i interceptar directament el tràfic?
+
+78
+00:04:47,000 --> 00:04:50,000
+Si, fins i tot les connexions HTTPS.
+
+79
+00:04:50,000 --> 00:04:53,000
+Val, espera, tu creus que la NSA està
+intentant comprometre Firefense?
+
+80
+00:04:53,000 --> 00:04:56,000
+Podrien ser ells, o algun altre grup capacitat.
+
+81
+00:04:56,000 --> 00:04:57,000
+Com de seriós és això?
+
+82
+00:04:57,000 --> 00:04:59,000
+Encara no ho sabem, General.
+
+83
+00:04:59,000 --> 00:05:00,000
+No pinta gaire bé.
+
+84
+00:05:00,000 --> 00:05:02,000
+Mike Donahue podria descobrir-nos, General.
+
+85
+00:05:02,000 --> 00:05:04,000
+I aquest qui és?
+
+86
+00:05:04,000 --> 00:05:07,000
+Vostès m'asseguraren discreció
+per a aquesta operació.
+
+87
+00:05:07,000 --> 00:05:10,000
+Doncs, Donahue és una analista a Firefense.
+
+88
+00:05:10,000 --> 00:05:13,000
+i es probable que estigui
+a prop de poder perturbar l'operacio.
+
+89
+00:05:13,000 --> 00:05:18,000
+Hem obtes acces a varies infraestructures
+de tercers, repartides pel mon.
+
+90
+00:05:18,000 --> 00:05:20,000
+i les fem servir com a cadena de proxies i tapadora
+
+91
+00:05:21,000 --> 00:05:25,000
+L'administració de l'operació a l'últim
+bot, s'efectua des de la xarxa d'un negoci local.
+
+92
+00:05:25,000 --> 00:05:28,000
+Ara mateix, aquest grup no és conscient d'això.
+
+93
+00:05:28,000 --> 00:05:30,000
+Llavors, quin és l'impacte per a nosaltres ara mateix?
+
+94
+00:05:30,000 --> 00:05:31,000
+i podem ser vinculats a ells?
+
+95
+00:05:31,000 --> 00:05:35,000
+Estem reevalunat la nostra OPSEC
+a l'operació ara mateix.
+
+96
+00:05:35,000 --> 00:05:36,000
+No ho sabem.
+
+97
+00:05:37,000 --> 00:05:38,000
+Vaig a seguir el tràfic a l'origen.
+
+98
+00:05:38,000 --> 00:05:40,000
+Mike, crec que no deuries seguir amb això.
+
+99
+00:05:40,000 --> 00:05:41,000
+I per què no?
+
+100
+00:05:41,000 --> 00:05:44,000
+Si Firefense està sent atacada,
+igual que Facebook, Yahoo, Google...
+
+101
+00:05:44,000 --> 00:05:46,000
+Aixó no és el pati de l'escola, saps?
+
+102
+00:05:46,000 --> 00:05:48,000
+Raó de mes per a descobrir-ho!
+
+103
+00:05:48,000 --> 00:05:49,000
+Vull dir, la gent mereix saber-ho
+
+104
+00:05:50,000 --> 00:05:52,000
+No?, no ho entens?
+
+105
+00:05:52,000 --> 00:05:53,000
+No, clar que sí!
+
+106
+00:05:53,000 --> 00:05:55,000
+Només que si la NSA està al darrere de tot
+
+107
+00:05:55,000 --> 00:05:57,000
+tindràs al FBI darrere teu en no res.
+
+108
+00:05:57,000 --> 00:05:59,000
+Per a què arriscar-te?
+
+109
+00:05:59,000 --> 00:06:01,000
+Samuel no va morir per un país ple de sangoneres.
+
+110
+00:06:01,000 --> 00:06:04,000
+Oh, ja veig. Són les teves obsessions
+personals de nou.
+
+111
+00:06:04,000 --> 00:06:05,000
+Que et donin.
+Deixa de dir això.
+
+112
+00:06:05,000 --> 00:06:07,000
+Mike, ja han passat 2 anys, hòstia.
+
+113
+00:06:08,000 --> 00:06:10,000
+Per favor, només, no facis res-
+
+114
+00:06:10,000 --> 00:06:11,000
+[Trucada colgada]
+
+115
+00:06:10,000 --> 00:06:11,000
+Estúpid.
+
+116
+00:06:12,000 --> 00:06:13,000
+Merda.
+
+117
+00:06:15,000 --> 00:06:16,000
+Ei...
+
+118
+00:06:16,000 --> 00:06:17,000
+Ei!
+
+119
+00:06:18,000 --> 00:06:19,000
+Que ha sigut tot això?
+
+120
+00:06:19,000 --> 00:06:22,000
+Resulta que Geroge Orwell era un optimista.
+
+121
+00:06:22,000 --> 00:06:24,000
+Crec cada vegada està mes a prop alguna cosa molt gran.
+
+122
+00:06:25,000 --> 00:06:27,000
+Ok, posa'm al dia.
+
+123
+00:06:30,000 --> 00:06:36,000
+PRISM és un nom en clau d'un projecte
+per a recol·lectar informació en massa, creat el 2007.
+
+124
+00:06:37,000 --> 00:06:39,000
+Aixo és el que has de saber.
+
+125
+00:06:40,000 --> 00:06:43,000
+Programes governamentals com PRISM
+
+126
+00:06:43,000 --> 00:06:47,000
+es fan servir per vigilar persones que
+ells creuen que estan fent alguna cosa mal.
+
+127
+00:06:48,000 --> 00:06:51,000
+Va sobre vigilar a tothom.
+
+128
+00:06:51,000 --> 00:06:56,000
+Les agències d'intel·ligencia no varen inventar la
+vigilància en massa d'Internet.
+
+129
+00:06:56,000 --> 00:06:59,000
+Ho inventaren empreses privades.
+
+130
+00:07:00,000 --> 00:07:05,000
+Les agències d'intel·ligencia simplement varen veure
+que podien fer servir les dades recol·lectades per aquestes empreses.
+
+131
+00:07:05,000 --> 00:07:08,000
+Com que Internet és tremendament complex
+
+132
+00:07:08,000 --> 00:07:11,000
+les teves comunicacions domèstiques
+entre tu i la teva dona
+
+133
+00:07:11,000 --> 00:07:15,000
+poden anar des de Nova York a Londres i tornar,
+sent interceptades pel camí.
+
+134
+00:07:16,000 --> 00:07:19,000
+A la majoria de la gent no li importa
+gaire la vigilància en línia en massa
+
+135
+00:07:19,000 --> 00:07:22,000
+perquè pensen que no tenen
+res a amagar.
+
+136
+00:07:22,000 --> 00:07:26,000
+Pot ser no tinguis res a amagar,
+però tens massa per protegir.
+
+137
+00:07:28,000 --> 00:07:30,000
+Primer, el tràfic venia de Xina
+
+138
+00:07:30,000 --> 00:07:34,000
+però, vaja, no anava a fer un Mandiant!
+
+139
+00:07:36,000 --> 00:07:39,000
+No vaig trigar massa a trobar aquesta
+vulnerabilitat de desserialitzacio,
+
+140
+00:07:39,000 --> 00:07:42,000
+i obtenir execució de codi al
+servidor Xines.
+
+141
+00:07:43,000 --> 00:07:46,000
+Després, el servidor xines es comunicava
+amb una impressora al Regne Unit.
+
+142
+00:07:47,000 --> 00:07:48,000
+Típic!
+
+143
+00:07:48,000 --> 00:07:50,000
+Ara ja no sé que fer.
+
+144
+00:07:50,000 --> 00:07:52,000
+Sempre és bo tenir amics Sonic.
+
+145
+00:07:52,000 --> 00:07:55,000
+els empenys una mica i no paren de sortir zero days.
+
+146
+00:07:56,000 --> 00:07:57,000
+Per favor, per favor, per favor.
+
+147
+00:07:58,000 --> 00:08:00,000
+Uff, això va venir genial!
+
+148
+00:08:01,000 --> 00:08:02,000
+Sí.
+
+149
+00:08:02,000 --> 00:08:04,000
+El següent salt a la comunicació
+era un servidor a Rússia.
+
+150
+00:08:04,000 --> 00:08:07,000
+Quant de servidor!
+Podia sentir l'adrenalina pel cos.
+
+151
+00:08:07,000 --> 00:08:09,000
+Sí, sí, sí. Shellshock!
+
+152
+00:08:09,000 --> 00:08:10,000
+Centra't!
+
+153
+00:08:10,000 --> 00:08:11,000
+Per sort, ara tenia ajuda extra.
+
+154
+00:08:11,000 --> 00:08:12,000
+Em poso a això.
+
+155
+00:08:13,000 --> 00:08:14,000
+Mia inclosa.
+
+156
+00:08:36,000 --> 00:08:37,000
+Ho tinc!
+
+157
+00:08:37,000 --> 00:08:39,000
+Shellshock en les capçaleres en 8080
+
+158
+00:08:39,000 --> 00:08:43,000
+Vaig fer servir un exploit privat del kernel per escalar
+privilegis a root al servidor rus.
+
+159
+00:08:43,000 --> 00:08:45,000
+Aquest prefixe d'IP...
+
+160
+00:08:46,000 --> 00:08:47,000
+Estats units?
+US?
+
+161
+00:08:47,000 --> 00:08:49,000
+En serio?
+Una pastisseria!
+
+162
+00:08:50,000 --> 00:08:52,000
+Això és una peli de Hollywood o què?
+
+163
+00:08:53,000 --> 00:08:54,000
+Hora de fer una visita en persona?
+
+164
+00:08:57,000 --> 00:08:58,000
+Sense dubte!
+
+168
+00:09:14,000 --> 00:09:15,500
+Hola. Em dic Mike Donahue.
+
+169
+00:09:15,500 --> 00:09:17,000
+Visc aquí a prop.
+Oh, hola senyora Sievers.
+
+170
+00:09:17,000 --> 00:09:18,000
+Hola Mike!
+
+171
+00:09:18,000 --> 00:09:20,000
+Treballo per a una empresa de ciberseguretat
+anomenada Firefense.
+
+172
+00:09:20,000 --> 00:09:23,000
+i els nostres servidors han sigut compromesos
+
+173
+00:09:23,000 --> 00:09:25,000
+per un rootkit, que connectava a... i...
+
+174
+00:09:25,000 --> 00:09:26,000
+...necessito la seva ajuda!
+
+175
+00:09:28,000 --> 00:09:29,000
+La meva ajuda?
+
+176
+00:09:29,000 --> 00:09:30,000
+Si
+
+177
+00:09:30,000 --> 00:09:35,000
+Hem tracejat el C&C i botava a una
+VPS a Xina, després Regne Unit, Rússia
+
+178
+00:09:35,000 --> 00:09:37,000
+i finalment tornava aquí.
+
+179
+00:09:38,000 --> 00:09:39,000
+Aquí?
+
+180
+00:09:39,000 --> 00:09:43,000
+Correcte. Crec que voste es el proxy.
+Això d'ahí és el proxy.
+
+181
+00:09:43,000 --> 00:09:45,000
+No sé què és això que em dius fill.
+
+182
+00:09:46,000 --> 00:09:47,000
+El C&C és...
+
+190
+00:09:49,000 --> 00:09:50,000
+Només necessito uns minuts.
+
+191
+00:09:51,000 --> 00:09:52,000
+Una estona?
+
+192
+00:09:52,000 --> 00:09:56,000
+Si, per configurar unes ferramentes
+i poder veure el tràfic a aquest proxy.
+
+193
+00:09:56,000 --> 00:09:57,000
+Ni parlar! Ni a la de tres tocaràs això.
+
+194
+00:09:58,000 --> 00:10:01,000
+M'acabo de gastar 500 dolars per arreglar-ho,
+així que no et vull ni a prop d'ell.
+
+195
+00:10:01,000 --> 00:10:04,000
+Però senyora, vosté no m'entén.
+Vosté ha sigut hackejada.
+
+196
+00:10:04,000 --> 00:10:06,000
+Ah no.
+No m'enganyaras.
+
+197
+00:10:06,000 --> 00:10:07,000
+Se el que és això.
+
+198
+00:10:07,000 --> 00:10:09,000
+Ho he llegit a totes aquestes cadenes de email.
+
+199
+00:10:09,000 --> 00:10:13,000
+Tu el que vols és robar-me les fotos del Facebook
+i donar-les a Obama.
+
+200
+00:10:13,000 --> 00:10:16,000
+No tens cap dret a rebel.lar les meves coses, fill.
+
+201
+00:10:17,000 --> 00:10:20,000
+Mike, no exposis la dona.
+
+202
+00:10:27,000 --> 00:10:29,000
+Jo sé el que fan els hackers
+
+203
+00:10:29,000 --> 00:10:31,000
+t'espien les fotos
+i llegeixen tots els teus missatges
+
+204
+00:10:32,000 --> 00:10:37,000
+Fins i tot poden robar-te els diners al compte
+bancari i enviar-ho a Suïssa, o alguna cosa així.
+
+205
+00:10:37,000 --> 00:10:38,000
+De veritat?
+
+206
+00:10:38,000 --> 00:10:39,000
+Oh, és horrible.
+
+207
+00:10:39,000 --> 00:10:40,000
+Ja veus.
+
+208
+00:10:41,000 --> 00:10:42,000
+Oh, un moment.
+
+209
+00:10:42,000 --> 00:10:45,000
+M'has posat també el pastís de crema?
+
+210
+00:10:46,000 --> 00:10:50,000
+Saps que? Per això jo no faig servir bancs.
+
+211
+00:10:51,000 --> 00:10:54,000
+Poso tots els diners baix del matalàs.
+
+212
+00:10:54,000 --> 00:10:57,000
+Així m'ho va ensenyar ma mare.
+
+213
+00:11:02,000 --> 00:11:03,000
+Gràcies, adeu!
+
+214
+00:11:09,000 --> 00:11:11,000
+Estan decidint el meu futur.
+
+215
+00:11:11,000 --> 00:11:12,000
+Justament aquests que volen el meu cap,
+
+216
+00:11:13,000 --> 00:11:14,000
+que volen saber allò que sé.
+
+217
+00:11:14,000 --> 00:11:18,000
+Volen que em quedi callat perquè
+sé el que sempre han intentat amagar.
+
+218
+00:11:18,000 --> 00:11:21,000
+Sóc en John Inglis, subdirector de
+l'Agència Nacional de Seguretat.
+
+219
+00:11:21,000 --> 00:11:22,000
+Com estàs?
+
+220
+00:11:23,000 --> 00:11:26,000
+Però jo sóc l'única persona.
+
+221
+00:11:33,000 --> 00:11:34,000
+Que sap del teu viatge a les Bermudes.
+
+222
+00:11:34,000 --> 00:11:35,000
+De l'aventura amb la teva cosina.
+
+223
+00:11:35,000 --> 00:11:37,000
+Sé el que penses del teu cap
+
+224
+00:11:37,000 --> 00:11:38,000
+i he vist la foto de la teva polla també.
+
+225
+00:11:38,000 --> 00:11:40,000
+Excedies el límit de velocitat mentre anaves drogat.
+
+226
+00:11:40,000 --> 00:11:42,000
+Vares buscar cadells de Chihuahua al Google.
+
+227
+00:11:42,000 --> 00:11:43,000
+i com enverinar la teva sogra.
+
+228
+00:11:43,000 --> 00:11:45,000
+El teu telefon estava escoltant a la butxaca
+
+229
+00:11:45,000 --> 00:11:46,500
+quan vares conéixer la Lucy,
+
+230
+00:11:46,500 --> 00:11:48,000
+i també quan vares fer l'amor amb ella.
+
+231
+00:11:48,000 --> 00:11:50,000
+Però jo no sóc qui te'l va robar.
+
+232
+00:11:50,000 --> 00:11:54,000
+Aixó ha viatjat milles per tot el món
+i torna a entrar al país.
+
+233
+00:11:54,000 --> 00:11:57,000
+Seguretat nacional? Domèstic?
+
+234
+00:11:57,000 --> 00:11:58,500
+Mentides.
+
+235
+00:12:00,000 --> 00:12:02,000
+Necessitem saber amb qui treballes.
+
+236
+00:12:04,000 --> 00:12:09,000
+La teva jugarreta està posant la vida de ciutadans
+americans en perill i no puc deixar que això passi.
+
+237
+00:12:11,000 --> 00:12:12,000
+Aixó es fals.
+
+238
+00:12:12,000 --> 00:12:15,000
+No hi ha fronteres al món de la informació,
+
+239
+00:12:15,000 --> 00:12:18,000
+i la Llei Patriota no va ser dissenyada
+per protegir-te.
+
+240
+00:12:19,000 --> 00:12:24,000
+Ara tenim aquesta informació, i ja no tenim
+el privilegi de la ignorància.
+
+241
+00:12:25,000 --> 00:12:26,000
+Culpable.
+
