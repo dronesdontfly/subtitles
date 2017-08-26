@@ -12,14 +12,16 @@ Currently available:
 * English
 * Spanish
 * Catalan
+* Euskera
 * French
 * German
+* Dutch
 * Danish
-* Swedish
 * Norwegian
-* Hungarian
 
 Sooner than later:
+* Hungarian
+* Swedish
 * Finnish
 * Russian
 * Portuguese
